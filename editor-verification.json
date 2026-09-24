@@ -1,0 +1,20 @@
+{
+  "levelCount": 577,
+  "structuralErrors": [
+    {
+      "id": 257,
+      "errors": [
+        "没有容器目标"
+      ]
+    },
+    {
+      "id": 8,
+      "errors": [
+        "m_time 必须 >0"
+      ]
+    }
+  ],
+  "drawCalls": 3240919,
+  "scope": "Node contract tests; real WebView file API not exercised",
+  "passed": true
+}

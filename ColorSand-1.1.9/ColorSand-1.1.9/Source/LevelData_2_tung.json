@@ -1,0 +1,106 @@
+{
+  "sourcePathId": "8455041834280017201",
+  "sourceBundle": "assets/aa/Android/defaultlocalgroup_assets_all_7600a1ab01681b7c3db2041d6d1b3adb.bundle",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": -1133149259642089848
+    },
+    "m_Name": "LevelData_2_tung",
+    "LevelTimeLimit": 60.0,
+    "LevelDifficulty": 0,
+    "Width": 10,
+    "Height": 15,
+    "_sandPixelsPerUnit": 16,
+    "SandContainers": [],
+    "SandPipes": [],
+    "BoxData": [
+      {
+        "Id": 23,
+        "Cells": [
+          {
+            "x": 4,
+            "y": 9
+          },
+          {
+            "x": 3,
+            "y": 10
+          },
+          {
+            "x": 4,
+            "y": 10
+          },
+          {
+            "x": 5,
+            "y": 10
+          },
+          {
+            "x": 4,
+            "y": 11
+          }
+        ],
+        "Color": 2,
+        "SandCount": 0,
+        "Obstacles": 1,
+        "DoubleBoxData": {
+          "Color": 8,
+          "SandCount": 0
+        },
+        "IsHorizontal": 1,
+        "IceCount": 1,
+        "KeyAndLockColor": 0,
+        "KeyIds": []
+      },
+      {
+        "Id": 24,
+        "Cells": [
+          {
+            "x": 3,
+            "y": 4
+          },
+          {
+            "x": 4,
+            "y": 4
+          },
+          {
+            "x": 5,
+            "y": 4
+          },
+          {
+            "x": 3,
+            "y": 5
+          },
+          {
+            "x": 3,
+            "y": 6
+          }
+        ],
+        "Color": 5,
+        "SandCount": 0,
+        "Obstacles": 0,
+        "DoubleBoxData": {
+          "Color": 2,
+          "SandCount": 0
+        },
+        "IsHorizontal": 1,
+        "IceCount": 1,
+        "KeyAndLockColor": 0,
+        "KeyIds": []
+      }
+    ],
+    "WallData": [],
+    "BarrierData": [],
+    "ColorPathData": [],
+    "VoidData": [],
+    "ShutterData": [],
+    "TutorialSequence": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  }
+}

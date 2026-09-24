@@ -1,0 +1,135 @@
+{
+  "id": 471,
+  "m_Name": "LevelData_2_tung",
+  "m_time": 60.0,
+  "m_loopTime": 0.0,
+  "m_reward": {
+    "Amount": 100.0
+  },
+  "m_difficulty": 0,
+  "m_creationData": {
+    "gridSize": {
+      "x": 10,
+      "y": 15
+    },
+    "containers": [],
+    "pits": [
+      {
+        "Id": 23,
+        "Color": 8,
+        "Capacity": 0,
+        "StartPosition": {
+          "x": 3,
+          "y": 9
+        },
+        "ShapeCells": [
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 1
+          },
+          {
+            "x": 2,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 2
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 24,
+        "Color": 5,
+        "Capacity": 0,
+        "StartPosition": {
+          "x": 3,
+          "y": 4
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 2,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 0,
+            "y": 2
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      }
+    ],
+    "linkedPits": [
+      {
+        "Id": 25,
+        "Color": 2,
+        "Capacity": 0,
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        },
+        "MainPitId": 23,
+        "Order": 0
+      }
+    ],
+    "gluedGroups": [],
+    "wall": {
+      "ShapeCells": []
+    },
+    "pipes": [],
+    "grinders": [],
+    "garages": [],
+    "platformBlockers": [],
+    "dispensers": [],
+    "coloredGrids": []
+  }
+}

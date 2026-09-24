@@ -1,0 +1,1656 @@
+{
+  "id": 806,
+  "m_Name": "LevelData_158",
+  "m_time": 150,
+  "m_loopTime": 0,
+  "m_reward": {
+    "Amount": 100
+  },
+  "m_difficulty": 0,
+  "m_creationData": {
+    "gridSize": {
+      "x": 9,
+      "y": 9
+    },
+    "containers": [
+      {
+        "Anchor": {
+          "x": 6,
+          "y": 7
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "ResolutionPerCell": 32,
+        "GrainRuns": [
+          252063744,
+          251670529,
+          252067840,
+          251674625,
+          252071936,
+          251678721,
+          252076032,
+          251682817,
+          252080128,
+          251686913,
+          252084224,
+          251691009,
+          252088320,
+          251695105,
+          252092416,
+          251699201,
+          252096512,
+          251703297,
+          252100608,
+          251707393,
+          252104704,
+          251711489,
+          252108800,
+          251715585,
+          252112896,
+          251719681,
+          252116992,
+          251723777,
+          252121088,
+          251727873,
+          252125184,
+          251731969,
+          252129280,
+          251736065,
+          252133376,
+          251740161,
+          252137472,
+          251744257,
+          252141568,
+          251748353,
+          252145664,
+          251752449,
+          252149760,
+          251756545,
+          252153856,
+          251760641,
+          252157952,
+          251764737,
+          252162048,
+          251768833,
+          252166144,
+          251772929,
+          252170240,
+          251777025,
+          252174336,
+          251781121,
+          252178432,
+          251785217,
+          252051520,
+          251658305,
+          252055616,
+          251662401,
+          252059712,
+          251666497,
+          252063808,
+          251670593,
+          252067904,
+          251674689,
+          252072000,
+          251678785,
+          252076096,
+          251682881,
+          252080192,
+          251686977,
+          252084288,
+          251691073,
+          252088384,
+          251695169,
+          252092480,
+          251699265,
+          252096576,
+          251703361,
+          252100672,
+          251707457,
+          252104768,
+          251711553,
+          252108864,
+          251715649,
+          252112960,
+          251719745,
+          252117056,
+          251723841,
+          252121152,
+          251727937,
+          252125248,
+          251732033,
+          252129344,
+          251736129,
+          252133440,
+          251740225,
+          252137536,
+          251744321,
+          252141632,
+          251748417,
+          252145728,
+          251752513,
+          252149824,
+          251756609,
+          252153920,
+          251760705,
+          252158016,
+          251764801,
+          252162112,
+          251768897,
+          252166208,
+          251772993
+        ],
+        "GlassBlockers": [],
+        "RockBlockers": []
+      },
+      {
+        "Anchor": {
+          "x": 4,
+          "y": 7
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "ResolutionPerCell": 32,
+        "GrainRuns": [
+          923152384,
+          922759169,
+          923156480,
+          922763265,
+          923160576,
+          922767361,
+          923164672,
+          922771457,
+          923168768,
+          922775553,
+          923172864,
+          922779649,
+          923176960,
+          922783745,
+          923181056,
+          922787841,
+          923185152,
+          922791937,
+          923189248,
+          922796033,
+          923193344,
+          922800129,
+          923197440,
+          922804225,
+          923201536,
+          922808321,
+          923205632,
+          922812417,
+          923209728,
+          922816513,
+          923213824,
+          922820609,
+          923217920,
+          922824705,
+          923222016,
+          922828801,
+          923226112,
+          922832897,
+          923230208,
+          922836993,
+          923234304,
+          922841089,
+          923238400,
+          922845185,
+          923242496,
+          922849281,
+          923246592,
+          922853377,
+          923250688,
+          922857473,
+          923254784,
+          922861569,
+          923258880,
+          922865665,
+          923262976,
+          922869761,
+          923267072,
+          922873857,
+          923140160,
+          922746945,
+          923144256,
+          922751041,
+          923148352,
+          922755137,
+          923152448,
+          922759233,
+          923156544,
+          922763329,
+          923160640,
+          922767425,
+          923164736,
+          922771521,
+          923168832,
+          922775617,
+          923172928,
+          922779713,
+          923177024,
+          922783809,
+          923181120,
+          922787905,
+          923185216,
+          922792001,
+          923189312,
+          922796097,
+          923193408,
+          922800193,
+          923197504,
+          922804289,
+          923201600,
+          922808385,
+          923205696,
+          922812481,
+          923209792,
+          922816577,
+          923213888,
+          922820673,
+          923217984,
+          922824769,
+          923222080,
+          922828865,
+          923226176,
+          922832961,
+          923230272,
+          922837057,
+          923234368,
+          922841153,
+          923238464,
+          922845249,
+          923242560,
+          922849345,
+          923246656,
+          922853441,
+          923250752,
+          922857537,
+          923254848,
+          922861633
+        ],
+        "GlassBlockers": [
+          {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 1,
+                "y": 0
+              },
+              {
+                "x": 0,
+                "y": 1
+              },
+              {
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "Count": 7
+          }
+        ],
+        "RockBlockers": []
+      },
+      {
+        "Anchor": {
+          "x": 2,
+          "y": 7
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "ResolutionPerCell": 32,
+        "GrainRuns": [
+          1191587840,
+          1191194625,
+          1191591936,
+          1191198721,
+          1191596032,
+          1191202817,
+          1191600128,
+          1191206913,
+          1191604224,
+          1191211009,
+          1191608320,
+          1191215105,
+          1191612416,
+          1191219201,
+          1191616512,
+          1191223297,
+          1191620608,
+          1191227393,
+          1191624704,
+          1191231489,
+          1191628800,
+          1191235585,
+          1191632896,
+          1191239681,
+          1191636992,
+          1191243777,
+          1191641088,
+          1191247873,
+          1191645184,
+          1191251969,
+          1191649280,
+          1191256065,
+          1191653376,
+          1191260161,
+          1191657472,
+          1191264257,
+          1191661568,
+          1191268353,
+          1191665664,
+          1191272449,
+          1191669760,
+          1191276545,
+          1191673856,
+          1191280641,
+          1191677952,
+          1191284737,
+          1191682048,
+          1191288833,
+          1191686144,
+          1191292929,
+          1191690240,
+          1191297025,
+          1191694336,
+          1191301121,
+          1191698432,
+          1191305217,
+          1191702528,
+          1191309313,
+          1191575616,
+          1191182401,
+          1191579712,
+          1191186497,
+          1191583808,
+          1191190593,
+          1191587904,
+          1191194689,
+          1191592000,
+          1191198785,
+          1191596096,
+          1191202881,
+          1191600192,
+          1191206977,
+          1191604288,
+          1191211073,
+          1191608384,
+          1191215169,
+          1191612480,
+          1191219265,
+          1191616576,
+          1191223361,
+          1191620672,
+          1191227457,
+          1191624768,
+          1191231553,
+          1191628864,
+          1191235649,
+          1191632960,
+          1191239745,
+          1191637056,
+          1191243841,
+          1191641152,
+          1191247937,
+          1191645248,
+          1191252033,
+          1191649344,
+          1191256129,
+          1191653440,
+          1191260225,
+          1191657536,
+          1191264321,
+          1191661632,
+          1191268417,
+          1191665728,
+          1191272513,
+          1191669824,
+          1191276609,
+          1191673920,
+          1191280705,
+          1191678016,
+          1191284801,
+          1191682112,
+          1191288897,
+          1191686208,
+          1191292993,
+          1191690304,
+          1191297089
+        ],
+        "GlassBlockers": [
+          {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 1,
+                "y": 0
+              },
+              {
+                "x": 0,
+                "y": 1
+              },
+              {
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "Count": 14
+          }
+        ],
+        "RockBlockers": []
+      },
+      {
+        "Anchor": {
+          "x": 1,
+          "y": 7
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          }
+        ],
+        "ResolutionPerCell": 32,
+        "GrainRuns": [
+          642134016,
+          642138112,
+          642142208,
+          642146304,
+          642150400,
+          642154496,
+          642158592,
+          642162688,
+          642166784,
+          642170880,
+          642174976,
+          642179072,
+          642183168,
+          642187264,
+          642191360,
+          642195456,
+          642199552,
+          642203648,
+          642207744,
+          642211840,
+          642215936,
+          642220032,
+          642224128,
+          642228224,
+          642232320,
+          642236416,
+          642240512,
+          642244608,
+          642248704,
+          373686336,
+          373690432,
+          373694528,
+          373698624,
+          373702720,
+          373706816,
+          373710912,
+          373715008,
+          373719104,
+          373723200,
+          373727296,
+          373731392,
+          373735488,
+          373739584,
+          373743680,
+          373747776,
+          373751872,
+          373755968,
+          373760064,
+          373764160,
+          373768256,
+          373772352,
+          373776448,
+          373780544,
+          373784640,
+          373788736,
+          373792832,
+          373796928,
+          373801024
+        ],
+        "GlassBlockers": [
+          {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 0,
+                "y": 1
+              }
+            ],
+            "Count": 20
+          }
+        ],
+        "RockBlockers": []
+      }
+    ],
+    "pits": [
+      {
+        "Id": 432,
+        "Color": 1,
+        "Capacity": 210,
+        "StartPosition": {
+          "x": 8,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 436,
+        "Color": 1,
+        "Capacity": 630,
+        "StartPosition": {
+          "x": 0,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 2,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 437,
+        "Color": 1,
+        "Capacity": 210,
+        "StartPosition": {
+          "x": 8,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 438,
+        "Color": 8,
+        "Capacity": 373,
+        "StartPosition": {
+          "x": 8,
+          "y": 4
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 1,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 439,
+        "Color": 1,
+        "Capacity": 210,
+        "StartPosition": {
+          "x": 7,
+          "y": 4
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 3,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 440,
+        "Color": 1,
+        "Capacity": 210,
+        "StartPosition": {
+          "x": 6,
+          "y": 4
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 5,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 442,
+        "Color": 8,
+        "Capacity": 373,
+        "StartPosition": {
+          "x": 7,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 444,
+        "Color": 2,
+        "Capacity": 125,
+        "StartPosition": {
+          "x": 5,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 445,
+        "Color": 2,
+        "Capacity": 125,
+        "StartPosition": {
+          "x": 3,
+          "y": 6
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 446,
+        "Color": 1,
+        "Capacity": 210,
+        "StartPosition": {
+          "x": 2,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 447,
+        "Color": 4,
+        "Capacity": 188,
+        "StartPosition": {
+          "x": 3,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 450,
+        "Color": 6,
+        "Capacity": 280,
+        "StartPosition": {
+          "x": 5,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 451,
+        "Color": 8,
+        "Capacity": 373,
+        "StartPosition": {
+          "x": 3,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 452,
+        "Color": 6,
+        "Capacity": 280,
+        "StartPosition": {
+          "x": 6,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 453,
+        "Color": 6,
+        "Capacity": 280,
+        "StartPosition": {
+          "x": 4,
+          "y": 3
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 454,
+        "Color": 6,
+        "Capacity": 280,
+        "StartPosition": {
+          "x": 8,
+          "y": 1
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 455,
+        "Color": 2,
+        "Capacity": 188,
+        "StartPosition": {
+          "x": 2,
+          "y": 0
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 456,
+        "Color": 2,
+        "Capacity": 125,
+        "StartPosition": {
+          "x": 5,
+          "y": 1
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 457,
+        "Color": 2,
+        "Capacity": 62,
+        "StartPosition": {
+          "x": 2,
+          "y": 1
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 458,
+        "Color": 6,
+        "Capacity": 560,
+        "StartPosition": {
+          "x": 4,
+          "y": 0
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 459,
+        "Color": 8,
+        "Capacity": 747,
+        "StartPosition": {
+          "x": 6,
+          "y": 2
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 14,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 461,
+        "Color": 8,
+        "Capacity": 377,
+        "StartPosition": {
+          "x": 8,
+          "y": 2
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 14,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 462,
+        "Color": 6,
+        "Capacity": 841,
+        "StartPosition": {
+          "x": 0,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 463,
+        "Color": 6,
+        "Capacity": 560,
+        "StartPosition": {
+          "x": 5,
+          "y": 6
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 466,
+        "Color": 1,
+        "Capacity": 210,
+        "StartPosition": {
+          "x": 7,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 469,
+        "Color": 4,
+        "Capacity": 188,
+        "StartPosition": {
+          "x": 4,
+          "y": 5
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 471,
+        "Color": 6,
+        "Capacity": 283,
+        "StartPosition": {
+          "x": 2,
+          "y": 6
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 472,
+        "Color": 2,
+        "Capacity": 129,
+        "StartPosition": {
+          "x": 7,
+          "y": 0
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 473,
+        "Color": 1,
+        "Capacity": 630,
+        "StartPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "ShapeCells": [
+          {
+            "x": 1,
+            "y": 0
+          },
+          {
+            "x": 0,
+            "y": 1
+          },
+          {
+            "x": 1,
+            "y": 1
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      },
+      {
+        "Id": 474,
+        "Color": 1,
+        "Capacity": 424,
+        "StartPosition": {
+          "x": 5,
+          "y": 0
+        },
+        "ShapeCells": [
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "x": 1,
+            "y": 0
+          }
+        ],
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "TableClothCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        }
+      }
+    ],
+    "linkedPits": [
+      {
+        "Id": 475,
+        "Color": 1,
+        "Capacity": 420,
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        },
+        "MainPitId": 445,
+        "Order": 0
+      },
+      {
+        "Id": 476,
+        "Color": 8,
+        "Capacity": 1121,
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        },
+        "MainPitId": 455,
+        "Order": 0
+      },
+      {
+        "Id": 477,
+        "Color": 4,
+        "Capacity": 378,
+        "LockAxis": 0,
+        "FrozenCount": 0,
+        "HammerCount": 0,
+        "ClockSeconds": 0,
+        "Lock": {
+          "Type": 0,
+          "Count": 0
+        },
+        "Key": {
+          "Type": 0
+        },
+        "MainPitId": 472,
+        "Order": 0
+      }
+    ],
+    "gluedGroups": [],
+    "wall": {
+      "ShapeCells": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 0,
+          "y": 4
+        },
+        {
+          "x": 0,
+          "y": 6
+        },
+        {
+          "x": 0,
+          "y": 7
+        },
+        {
+          "x": 0,
+          "y": 8
+        },
+        {
+          "x": 1,
+          "y": 2
+        },
+        {
+          "x": 1,
+          "y": 4
+        },
+        {
+          "x": 2,
+          "y": 2
+        },
+        {
+          "x": 2,
+          "y": 4
+        },
+        {
+          "x": 3,
+          "y": 2
+        },
+        {
+          "x": 3,
+          "y": 4
+        },
+        {
+          "x": 4,
+          "y": 2
+        },
+        {
+          "x": 4,
+          "y": 4
+        },
+        {
+          "x": 5,
+          "y": 2
+        },
+        {
+          "x": 5,
+          "y": 4
+        },
+        {
+          "x": 8,
+          "y": 0
+        },
+        {
+          "x": 8,
+          "y": 6
+        },
+        {
+          "x": 8,
+          "y": 7
+        },
+        {
+          "x": 8,
+          "y": 8
+        }
+      ]
+    },
+    "pipes": [],
+    "grinders": [],
+    "garages": [],
+    "platformBlockers": [],
+    "dispensers": [],
+    "coloredGrids": []
+  },
+  "editorMeta": {
+    "collection": "competitor2",
+    "sequence": 158,
+    "sourceId": 158,
+    "sourceName": "LevelData_158",
+    "sourceFile": "Levels/151-200/level_158.json",
+    "sourcePackage": "puzzle.color.sand.blocks",
+    "sourceVersion": "1.1.9",
+    "paletteName": "ColorSand 1.1.9",
+    "palette": [
+      null,
+      "#e23d42",
+      "#f9df5f",
+      "#ff7e4e",
+      "#36e972",
+      "#03894d",
+      "#387cf3",
+      "#2db8f3",
+      "#be5bfc",
+      "#ff64e7",
+      "#36f1ff",
+      "#758196",
+      "#f4faff"
+    ],
+    "compatibilityNotes": [
+      "cover_as_glass: 原版沙仓盖映射为整仓玻璃，解除时机需实机核对",
+      "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+    ],
+    "playthroughVerified": false,
+    "intent": "竞品2 · ColorSand 1.1.9 · 主线第 158 关。按当前编辑器规则模拟，未验证原版行为等价或逐关通关。适配提示：cover_as_glass: 原版沙仓盖映射为整仓玻璃，解除时机需实机核对；double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+  }
+}

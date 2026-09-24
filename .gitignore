@@ -1,0 +1,3 @@
+.venv-macos/
+__pycache__/
+*.pyc

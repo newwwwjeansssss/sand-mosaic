@@ -1,0 +1,10 @@
+<!doctype html><meta charset="utf-8"><title>编辑器界面测试 · 仅内存保存</title>
+<p>正在载入隔离的界面测试。所有保存只保留在本页面内存中。</p>
+<script>
+fetch('../index.html').then(r=>r.text()).then(html=>{
+  html=html.replace('<head>','<head><base href="../">');
+  html=html.replace('<script src="sand.js">','<script src="tests/preview-bridge.js"><\/script><script src="sand.js">');
+  html=html.replace('关卡编辑器 · UNITY 数据','界面测试 · 仅内存保存');
+  document.open();document.write(html);document.close();
+});
+</script>

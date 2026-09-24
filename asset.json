@@ -1,0 +1,393 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "colors",
+      "name": "沙粒颜色",
+      "items": [
+        {
+          "id": "color-0",
+          "name": "颜色 0",
+          "type": "color",
+          "colorIndex": 0,
+          "color": "#ff1c1d",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-1",
+          "name": "颜色 1",
+          "type": "color",
+          "colorIndex": 1,
+          "color": "#006009",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-2",
+          "name": "颜色 2",
+          "type": "color",
+          "colorIndex": 2,
+          "color": "#1e71ff",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-3",
+          "name": "颜色 3",
+          "type": "color",
+          "colorIndex": 3,
+          "color": "#ffd91c",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-4",
+          "name": "颜色 4",
+          "type": "color",
+          "colorIndex": 4,
+          "color": "#c8c8c8",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-5",
+          "name": "颜色 5",
+          "type": "color",
+          "colorIndex": 5,
+          "color": "#af501b",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-6",
+          "name": "颜色 6",
+          "type": "color",
+          "colorIndex": 6,
+          "color": "#005b53",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-7",
+          "name": "颜色 7",
+          "type": "color",
+          "colorIndex": 7,
+          "color": "#ababab",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-8",
+          "name": "颜色 8",
+          "type": "color",
+          "colorIndex": 8,
+          "color": "#c8c8c8",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-9",
+          "name": "颜色 9",
+          "type": "color",
+          "colorIndex": 9,
+          "color": "#f3a282",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-10",
+          "name": "颜色 10",
+          "type": "color",
+          "colorIndex": 10,
+          "color": "#e810ff",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-11",
+          "name": "颜色 11",
+          "type": "color",
+          "colorIndex": 11,
+          "color": "#a310ff",
+          "image": "",
+          "difficultyWeight": 1
+        },
+        {
+          "id": "color-12",
+          "name": "颜色 12",
+          "type": "color",
+          "colorIndex": 12,
+          "color": "#00b5f5",
+          "image": "",
+          "difficultyWeight": 1
+        }
+      ]
+    },
+    {
+      "id": "entities",
+      "name": "实体预设",
+      "items": [
+        {
+          "id": "pits",
+          "name": "盒子",
+          "type": "preset",
+          "kind": "pits",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Id": 0,
+            "StartPosition": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "Color": 0,
+            "Capacity": 36,
+            "LockAxis": 0,
+            "FrozenCount": 0,
+            "TableClothCount": 0,
+            "Lock": {
+              "Type": 0,
+              "Count": 0
+            },
+            "Key": {
+              "Type": 0
+            },
+            "HammerCount": 0,
+            "ClockSeconds": 0
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "containers",
+          "name": "沙仓",
+          "type": "preset",
+          "kind": "containers",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "ResolutionPerCell": 18,
+            "GrainRuns": [],
+            "GrainFills": [],
+            "GlassBlockers": [],
+            "RockBlockers": []
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "wall",
+          "name": "墙体",
+          "type": "preset",
+          "kind": "wall",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "linkedPits",
+          "name": "多层",
+          "type": "preset",
+          "kind": "linkedPits",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Id": 0,
+            "MainPitId": 0,
+            "Order": 0,
+            "Color": 0,
+            "Capacity": 36,
+            "LockAxis": 0,
+            "FrozenCount": 0,
+            "Lock": {
+              "Type": 0,
+              "Count": 0
+            },
+            "Key": {
+              "Type": 0
+            }
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "gluedGroups",
+          "name": "胶合组",
+          "type": "preset",
+          "kind": "gluedGroups",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "MemberPitIds": [],
+            "SharedFrozenCount": 0,
+            "SharedTableClothCount": 0,
+            "SharedLock": {
+              "Type": 0,
+              "Count": 0
+            }
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "pipes",
+          "name": "管道",
+          "type": "preset",
+          "kind": "pipes",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "ContainerIndex": 0,
+            "Direction": 0,
+            "EdgePositionInSimGrid": 3,
+            "EdgeNormalPosition": 0,
+            "Width": 2,
+            "GrainRows": [
+              {
+                "Color": 0,
+                "RowCount": 6
+              }
+            ]
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "garages",
+          "name": "车库",
+          "type": "preset",
+          "kind": "garages",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "Health": 1,
+            "ColorFilter": {
+              "HasValue": 0,
+              "m_value": 0
+            }
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "grinders",
+          "name": "转轴",
+          "type": "preset",
+          "kind": "grinders",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "Up": 1,
+            "Down": 1,
+            "Left": 1,
+            "Right": 1,
+            "ColorFilter": {
+              "HasValue": 0,
+              "m_value": 0
+            }
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "platformBlockers",
+          "name": "隐藏平台",
+          "type": "preset",
+          "kind": "platformBlockers",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "HiddenPits": [],
+            "HiddenLinkedPits": [],
+            "HiddenGluedGroups": []
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "dispensers",
+          "name": "出盒队列",
+          "type": "preset",
+          "kind": "dispensers",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "Facing": 0,
+            "MouthWidth": 1,
+            "QueueSlotCount": 1,
+            "QueuedPits": [],
+            "QueuedLinkedPits": []
+          },
+          "difficultyWeight": 1
+        },
+        {
+          "id": "coloredGrids",
+          "name": "彩色地格",
+          "type": "preset",
+          "kind": "coloredGrids",
+          "color": "#62c9b8",
+          "image": "",
+          "defaults": {
+            "Anchor": {
+              "x": 0,
+              "y": 0
+            },
+            "ShapeCells": [
+              {
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "Color": 0
+          },
+          "difficultyWeight": 1
+        }
+      ]
+    }
+  ]
+}

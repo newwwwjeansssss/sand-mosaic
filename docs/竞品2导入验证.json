@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-23T07:52:49.798Z",
+  "unitTestsPassed": 26,
+  "data": {
+    "passed": true,
+    "imported": 493,
+    "mainline": 470,
+    "extras": 23,
+    "isolated": 4,
+    "allPayloadsPreserved": true,
+    "oldLevelsUnchanged": 627,
+    "sharedAssetsAndPhysicsUnchanged": true,
+    "scope": "Structural/layout/balance validation and exact source payload comparison; not playthrough proof"
+  },
+  "browser": {
+    "passed": true,
+    "rendered": 493,
+    "errors": [],
+    "checks": [
+      "470/23 independent lists",
+      "counterpart both directions",
+      "reference selector",
+      "last mainline and extras",
+      "correct independent palette",
+      "memory bridge save in competitor2-level",
+      "copy to our-level preserves palette"
+    ]
+  },
+  "firstLevel": {
+    "sourceLevel": 1,
+    "id": 628,
+    "won": true,
+    "collected": 6728,
+    "moves": [
+      {
+        "id": 7,
+        "from": {
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "x": 0,
+          "y": 3
+        }
+      },
+      {
+        "id": 8,
+        "from": {
+          "x": 2,
+          "y": 1
+        },
+        "to": {
+          "x": 2,
+          "y": 3
+        }
+      }
+    ],
+    "scope": "First mainline level only, using current editor simulation"
+  }
+}

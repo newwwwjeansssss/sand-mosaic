@@ -1,0 +1,3445 @@
+{
+  "version": 3,
+  "scope": "25 references from the first 50 of each competitor; bijective recolor, optional horizontal reflection and bounded interior row-preserving pattern edits. No physics edits. Not original creations or shortest-path proofs.",
+  "fullPlaythroughVerified": false,
+  "playtests": {
+    "scope": "Bounded heuristic search plus strict fresh-board replay for successful samples. No proof within budget does not establish a deadlock. Move counts are witness upper bounds, not shortest paths.",
+    "results": [
+      {
+        "sequence": 1,
+        "id": 578,
+        "sha256": "86959ea92cd06dc869a04bccb897f4cdb25a262c697bc91a5e4b8c0749206aa0",
+        "status": "won",
+        "replay": [
+          {
+            "index": 0,
+            "x": 0,
+            "y": 1
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "wait": 0.6
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "wait": 0.6
+          }
+        ],
+        "moves": 6,
+        "remaining": 238.2000000000001
+      },
+      {
+        "sequence": 2,
+        "id": 579,
+        "sha256": "4ee538d7b0a3a4e3f23ae2fdbf13d7d4fde18dcea6a53f58ab22fb7a5fc68885",
+        "status": "won",
+        "replay": [
+          {
+            "index": 1,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "wait": 2.4
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "wait": 1.9
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "wait": 3.2
+          },
+          {
+            "index": 0,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "wait": 1.5
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "wait": 1.4
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 4,
+            "y": 3
+          },
+          {
+            "wait": 0.2
+          }
+        ],
+        "moves": 15,
+        "remaining": 227.00000000000074
+      },
+      {
+        "sequence": 3,
+        "id": 580,
+        "sha256": "c2dfc9cf8844b3f686f157cb9f93026fdea5757e7e9d4ff9f2f900849793384a",
+        "status": "won",
+        "replay": [
+          {
+            "index": 0,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "wait": 1.4
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "wait": 0.1
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "wait": 1.2
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "wait": 0.2
+          }
+        ],
+        "moves": 16,
+        "remaining": 235.50000000000026
+      },
+      {
+        "sequence": 5,
+        "id": 582,
+        "sha256": "0e8697a15b7f9fe27f28c60d029ab1747fa81200d9952f62004c0679067235b9",
+        "status": "won",
+        "replay": [
+          {
+            "index": 2,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 5
+          },
+          {
+            "wait": 1.3
+          },
+          {
+            "index": 2,
+            "x": 4,
+            "y": 4
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 3,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 3,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 3,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "wait": 1.1
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 3,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "wait": 1.1
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 3,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 3,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 3,
+            "x": 4,
+            "y": 4
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 5
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "wait": 1.8
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 5
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "wait": 0.1
+          }
+        ],
+        "moves": 49,
+        "remaining": 222.90000000000097
+      },
+      {
+        "sequence": 17,
+        "id": 594,
+        "sha256": "dd9a03e0d5a711a1da16d7e2f30a12d154fdec116ad1f8144491178ebadd395a",
+        "status": "won",
+        "replay": [
+          {
+            "index": 2,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "wait": 1.5
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 1
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "wait": 0.5
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "wait": 1.4
+          },
+          {
+            "index": 0,
+            "x": 4,
+            "y": 1
+          },
+          {
+            "index": 0,
+            "x": 4,
+            "y": 2
+          },
+          {
+            "wait": 0.6
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 4,
+            "y": 2
+          },
+          {
+            "wait": 0.1
+          }
+        ],
+        "moves": 14,
+        "remaining": 173.60000000000036
+      },
+      {
+        "sequence": 20,
+        "id": 597,
+        "sha256": "1c2a288abf1b0a7011db72a1c4b806b65e687e2acfdd0be827cf18656d032fcd",
+        "status": "no-proof-within-search-budget"
+      },
+      {
+        "sequence": 27,
+        "id": 604,
+        "sha256": "6626270a229b3201c8c750cd7b3164f4050640585972a4f072066154b5cc1602",
+        "status": "no-proof-within-search-budget"
+      },
+      {
+        "sequence": 30,
+        "id": 607,
+        "sha256": "f767387b3987861d7023d3a101c8a1ccd26200fe03de7f77e5a3bb1c34e90f07",
+        "status": "won",
+        "replay": [
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "wait": 1.8
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 1
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "wait": 1
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "wait": 1.8
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 1
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "wait": 1
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "wait": 0
+          }
+        ],
+        "moves": 13,
+        "remaining": 173.1000000000004
+      },
+      {
+        "sequence": 49,
+        "id": 626,
+        "sha256": "4818906e7867ada819d4d45a66acf119e0019760689423f3e7146a25e3be1ef3",
+        "status": "no-proof-within-search-budget"
+      },
+      {
+        "sequence": 12,
+        "id": 589,
+        "sha256": "0104b762ff6f58fd3bdae88ea6acfed8bb485e9b2729df561a7534f8f0ce9da3",
+        "status": "won",
+        "replay": [
+          {
+            "index": 4,
+            "x": 4,
+            "y": 3
+          },
+          {
+            "index": 4,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "wait": 1.7
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 2,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "wait": 2.6
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 1
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "wait": 5
+          },
+          {
+            "index": 5,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "wait": 2
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 5,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 5,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "wait": 1.6
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 3,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 1
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 0,
+            "x": 0,
+            "y": 4
+          },
+          {
+            "wait": 1.5
+          },
+          {
+            "index": 5,
+            "x": 4,
+            "y": 3
+          },
+          {
+            "wait": 1
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "wait": 1.8
+          },
+          {
+            "index": 5,
+            "x": 4,
+            "y": 2
+          },
+          {
+            "index": 5,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 5,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 5,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 5,
+            "x": 0,
+            "y": 1
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 0,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "wait": 1.4
+          },
+          {
+            "index": 5,
+            "x": 0,
+            "y": 2
+          },
+          {
+            "index": 5,
+            "x": 0,
+            "y": 3
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "wait": 0
+          }
+        ],
+        "moves": 34,
+        "remaining": 217.2000000000013
+      },
+      {
+        "sequence": 15,
+        "id": 592,
+        "sha256": "851ba4579eab05cfcb04c40b90e30ef6b6dc3df9452e773f5d879276c8a777fe",
+        "status": "no-proof-within-search-budget"
+      },
+      {
+        "sequence": 18,
+        "id": 595,
+        "sha256": "ba45b5ce103a5e3eafac6d0fa6efbee2779441b14934326640b252b21e7e78c3",
+        "status": "no-proof-within-search-budget"
+      },
+      {
+        "sequence": 21,
+        "id": 598,
+        "sha256": "08f942c2a68bd047af0ca33d6653e991f9cc52e5577646fcac3bc7f6d0f44713",
+        "status": "won",
+        "replay": [
+          {
+            "index": 8,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 8,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "wait": 0.2
+          },
+          {
+            "index": 9,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "index": 9,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "wait": 0.2
+          },
+          {
+            "index": 0,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "index": 0,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 0,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0.2
+          },
+          {
+            "index": 11,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 11,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "index": 11,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 11,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "wait": 0.4
+          },
+          {
+            "index": 7,
+            "x": 4,
+            "y": 5
+          },
+          {
+            "index": 7,
+            "x": 4,
+            "y": 6
+          },
+          {
+            "index": 7,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "index": 7,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 7,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0.1
+          },
+          {
+            "index": 10,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 10,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "wait": 1.1
+          },
+          {
+            "index": 10,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 6,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 6,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 6,
+            "x": 3,
+            "y": 5
+          },
+          {
+            "index": 6,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "wait": 1.6
+          },
+          {
+            "index": 6,
+            "x": 4,
+            "y": 6
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 10,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "wait": 0.1
+          },
+          {
+            "index": 6,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "index": 6,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 6,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 5,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0.5
+          },
+          {
+            "index": 4,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 4,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 4,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 4,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 4,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "index": 4,
+            "x": 1,
+            "y": 7
+          },
+          {
+            "index": 4,
+            "x": 2,
+            "y": 7
+          },
+          {
+            "index": 4,
+            "x": 3,
+            "y": 7
+          },
+          {
+            "wait": 1
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 1
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "index": 3,
+            "x": 1,
+            "y": 7
+          },
+          {
+            "wait": 0.2
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 0
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 2,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "wait": 0.4
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 0
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 1
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "index": 1,
+            "x": 0,
+            "y": 6
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 1,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 4,
+            "x": 4,
+            "y": 7
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 0
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 1
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 2
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 3
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 4
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 12,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 12,
+            "x": 3,
+            "y": 5
+          },
+          {
+            "index": 12,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "wait": 0.9
+          },
+          {
+            "index": 4,
+            "x": 4,
+            "y": 6
+          },
+          {
+            "index": 12,
+            "x": 3,
+            "y": 5
+          },
+          {
+            "index": 12,
+            "x": 3,
+            "y": 4
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 0
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 5
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 12,
+            "x": 0,
+            "y": 6
+          },
+          {
+            "wait": 0.8
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 1
+          },
+          {
+            "index": 4,
+            "x": 4,
+            "y": 7
+          },
+          {
+            "index": 4,
+            "x": 3,
+            "y": 7
+          },
+          {
+            "index": 4,
+            "x": 2,
+            "y": 7
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 12,
+            "x": 1,
+            "y": 6
+          },
+          {
+            "index": 12,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 12,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "index": 12,
+            "x": 4,
+            "y": 6
+          },
+          {
+            "wait": 0
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 2
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 3
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 4
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 5
+          },
+          {
+            "index": 1,
+            "x": 2,
+            "y": 6
+          },
+          {
+            "index": 1,
+            "x": 3,
+            "y": 6
+          },
+          {
+            "wait": 0
+          }
+        ],
+        "moves": 110,
+        "remaining": 155.5000000000014
+      },
+      {
+        "sequence": 36,
+        "id": 613,
+        "sha256": "e1e5a5589254bc44be2b35102e7d36af972ff90a2c542b0254c9aabe77c007ac",
+        "status": "no-proof-within-search-budget"
+      }
+    ]
+  },
+  "results": [
+    {
+      "sequence": 1,
+      "id": 578,
+      "sourceCompetitor": 1,
+      "sourceSequence": 1,
+      "sourceId": 58,
+      "sourcePath": "level/level-58.json",
+      "name": "我们的 01 · 彩湾",
+      "score": 1.01,
+      "sourceScore": 1.01,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 2,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 245.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 56,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "86959ea92cd06dc869a04bccb897f4cdb25a262c697bc91a5e4b8c0749206aa0",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 2,
+      "id": 579,
+      "sourceCompetitor": 2,
+      "sourceSequence": 2,
+      "sourceId": 629,
+      "sourcePath": "competitor2-level/level-629.json",
+      "name": "我们的 02 · 折光",
+      "score": 1.3,
+      "sourceScore": 1.3,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 2,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 229.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 126,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "4ee538d7b0a3a4e3f23ae2fdbf13d7d4fde18dcea6a53f58ab22fb7a5fc68885",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 3,
+      "id": 580,
+      "sourceCompetitor": 1,
+      "sourceSequence": 2,
+      "sourceId": 59,
+      "sourcePath": "level/level-59.json",
+      "name": "我们的 03 · 回廊",
+      "score": 1.02,
+      "sourceScore": 1.02,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 2,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 2752,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 245.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 120,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "c2dfc9cf8844b3f686f157cb9f93026fdea5757e7e9d4ff9f2f900849793384a",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 4,
+      "id": 581,
+      "sourceCompetitor": 2,
+      "sourceSequence": 3,
+      "sourceId": 630,
+      "sourcePath": "competitor2-level/level-630.json",
+      "name": "我们的 04 · 色阶",
+      "score": 1.94,
+      "sourceScore": 1.94,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 4,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 192,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "c9e6343fa42f5f60e370e7166aac3b5e15bfac56553bbb195b8a34914bf290f1"
+    },
+    {
+      "sequence": 5,
+      "id": 582,
+      "sourceCompetitor": 1,
+      "sourceSequence": 3,
+      "sourceId": 60,
+      "sourcePath": "level/level-60.json",
+      "name": "我们的 05 · 映沙",
+      "score": 1.1,
+      "sourceScore": 1.1,
+      "mechanics": [],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 180,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "0e8697a15b7f9fe27f28c60d029ab1747fa81200d9952f62004c0679067235b9",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 6,
+      "id": 583,
+      "sourceCompetitor": 2,
+      "sourceSequence": 4,
+      "sourceId": 631,
+      "sourcePath": "competitor2-level/level-631.json",
+      "name": "我们的 06 · 彩湾",
+      "score": 1.28,
+      "sourceScore": 1.28,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 4,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 9744,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 229.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 210,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "e91b4fdc3b4adc2bff8bbdbd478988d6c63dd70da6a3d19a9dfe743d86662d36"
+    },
+    {
+      "sequence": 7,
+      "id": 584,
+      "sourceCompetitor": 1,
+      "sourceSequence": 4,
+      "sourceId": 61,
+      "sourcePath": "level/level-61.json",
+      "name": "我们的 07 · 折光",
+      "score": 1.26,
+      "sourceScore": 1.26,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 4,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 324,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "b504b316f97ef44bf59dc0b09d58d715b9248ed11b874678f9961bc7afc5f214"
+    },
+    {
+      "sequence": 8,
+      "id": 585,
+      "sourceCompetitor": 2,
+      "sourceSequence": 5,
+      "sourceId": 632,
+      "sourcePath": "competitor2-level/level-632.json",
+      "name": "我们的 08 · 回廊",
+      "score": 1.82,
+      "sourceScore": 1.82,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 6,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 384,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "e3c7595f9fb19d1fe10a78681aabd39e447e8ef3d998f1b8cd1702bcebedd0bd"
+    },
+    {
+      "sequence": 9,
+      "id": 586,
+      "sourceCompetitor": 1,
+      "sourceSequence": 7,
+      "sourceId": 34,
+      "sourcePath": "level/level-34.json",
+      "name": "我们的 09 · 色阶",
+      "score": 1.31,
+      "sourceScore": 1.31,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 5,
+      "boxShapesMirrored": 3,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 10024,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 245.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 539,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "2909794c378c362ad620e617a39c876234442d95de87acfb908f0ead259a776f"
+    },
+    {
+      "sequence": 10,
+      "id": 587,
+      "sourceCompetitor": 2,
+      "sourceSequence": 6,
+      "sourceId": 633,
+      "sourcePath": "competitor2-level/level-633.json",
+      "name": "我们的 10 · 映沙",
+      "score": 2.1,
+      "sourceScore": 2.1,
+      "mechanics": [],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 229.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 504,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "a9a6c8dd238aa5f1a172b91ae5d32f24a6ccf9575d0c1198343ab2916cb77c0f"
+    },
+    {
+      "sequence": 11,
+      "id": 588,
+      "sourceCompetitor": 1,
+      "sourceSequence": 8,
+      "sourceId": 339,
+      "sourcePath": "level/level-339.json",
+      "name": "我们的 11 · 彩湾",
+      "score": 1.61,
+      "sourceScore": 1.61,
+      "mechanics": [
+        "冰冻"
+      ],
+      "reflected": true,
+      "boxesMoved": 4,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 245.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 288,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "84d5eda091c84ce42aace9c26535d6b05606e29e280f10e995ff396f5e45b349"
+    },
+    {
+      "sequence": 12,
+      "id": 589,
+      "sourceCompetitor": 2,
+      "sourceSequence": 7,
+      "sourceId": 634,
+      "sourcePath": "competitor2-level/level-634.json",
+      "name": "我们的 12 · 折光",
+      "score": 2.52,
+      "sourceScore": 2.52,
+      "mechanics": [
+        "冰冻"
+      ],
+      "reflected": true,
+      "boxesMoved": 6,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 320,
+        "totalGrains": 16740,
+        "pools": 1,
+        "ratio": 0.019115890083632018,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 213.4,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 288,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "0104b762ff6f58fd3bdae88ea6acfed8bb485e9b2729df561a7534f8f0ce9da3",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 13,
+      "id": 590,
+      "sourceCompetitor": 1,
+      "sourceSequence": 9,
+      "sourceId": 338,
+      "sourcePath": "level/level-338.json",
+      "name": "我们的 13 · 回廊",
+      "score": 1.33,
+      "sourceScore": 1.33,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 6,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 164,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 336,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "6b989595dddedff1ff2008a496420ffc06e8c12bb99c20bcc53c3134db02a2cc"
+    },
+    {
+      "sequence": 14,
+      "id": 591,
+      "sourceCompetitor": 2,
+      "sourceSequence": 8,
+      "sourceId": 635,
+      "sourcePath": "competitor2-level/level-635.json",
+      "name": "我们的 14 · 色阶",
+      "score": 2.22,
+      "sourceScore": 2.22,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 6,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 420,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "8d26ebca5f012c2bea4d2e409facf6096ae4820a6a0d689829a6fadf7be4e2fd"
+    },
+    {
+      "sequence": 15,
+      "id": 592,
+      "sourceCompetitor": 1,
+      "sourceSequence": 12,
+      "sourceId": 63,
+      "sourcePath": "level/level-63.json",
+      "name": "我们的 15 · 映沙",
+      "score": 3.13,
+      "sourceScore": 3.13,
+      "mechanics": [],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 96,
+        "totalGrains": 9520,
+        "pools": 1,
+        "ratio": 0.010084033613445379,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 1040,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "851ba4579eab05cfcb04c40b90e30ef6b6dc3df9452e773f5d879276c8a777fe",
+      "playtestStatus": "no-proof-within-search-budget"
+    },
+    {
+      "sequence": 16,
+      "id": 593,
+      "sourceCompetitor": 2,
+      "sourceSequence": 13,
+      "sourceId": 647,
+      "sourcePath": "competitor2-level/level-647.json",
+      "name": "我们的 16 · 彩湾",
+      "score": 1.68,
+      "sourceScore": 1.68,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 8,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 192.2,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 480,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "fa1d590b5df886aa40521b9c9f120efebf2e33792735a15abcb54a4409bb9a51"
+    },
+    {
+      "sequence": 17,
+      "id": 594,
+      "sourceCompetitor": 1,
+      "sourceSequence": 16,
+      "sourceId": 12,
+      "sourcePath": "level/level-12.json",
+      "name": "我们的 17 · 折光",
+      "score": 1.14,
+      "sourceScore": 1.14,
+      "mechanics": [
+        "方向限制"
+      ],
+      "reflected": true,
+      "boxesMoved": 3,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 245.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 147,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "dd9a03e0d5a711a1da16d7e2f30a12d154fdec116ad1f8144491178ebadd395a",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 18,
+      "id": 595,
+      "sourceCompetitor": 2,
+      "sourceSequence": 15,
+      "sourceId": 649,
+      "sourcePath": "competitor2-level/level-649.json",
+      "name": "我们的 18 · 回廊",
+      "score": 2.82,
+      "sourceScore": 2.82,
+      "mechanics": [
+        "冰冻"
+      ],
+      "reflected": true,
+      "boxesMoved": 8,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 320,
+        "totalGrains": 16740,
+        "pools": 1,
+        "ratio": 0.019115890083632018,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 192.2,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 600,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "ba45b5ce103a5e3eafac6d0fa6efbee2779441b14934326640b252b21e7e78c3",
+      "playtestStatus": "no-proof-within-search-budget"
+    },
+    {
+      "sequence": 19,
+      "id": 596,
+      "sourceCompetitor": 1,
+      "sourceSequence": 18,
+      "sourceId": 10,
+      "sourcePath": "level/level-10.json",
+      "name": "我们的 19 · 色阶",
+      "score": 1.95,
+      "sourceScore": 1.95,
+      "mechanics": [
+        "冰冻",
+        "方向限制"
+      ],
+      "reflected": true,
+      "boxesMoved": 10,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 972,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "31715b06d5643c3c9de415589b6740b40795a966dfac591e4708ff8d3faa4f53"
+    },
+    {
+      "sequence": 20,
+      "id": 597,
+      "sourceCompetitor": 2,
+      "sourceSequence": 16,
+      "sourceId": 650,
+      "sourcePath": "competitor2-level/level-650.json",
+      "name": "我们的 20 · 映沙",
+      "score": 1.19,
+      "sourceScore": 1.19,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 243.9,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 30,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+      ],
+      "sha256": "1c2a288abf1b0a7011db72a1c4b806b65e687e2acfdd0be827cf18656d032fcd",
+      "playtestStatus": "no-proof-within-search-budget"
+    },
+    {
+      "sequence": 21,
+      "id": 598,
+      "sourceCompetitor": 1,
+      "sourceSequence": 19,
+      "sourceId": 11,
+      "sourcePath": "level/level-11.json",
+      "name": "我们的 21 · 彩湾",
+      "score": 2.4,
+      "sourceScore": 2.4,
+      "mechanics": [
+        "方向限制"
+      ],
+      "reflected": true,
+      "boxesMoved": 12,
+      "boxShapesMirrored": 4,
+      "pattern": {
+        "changedPixels": 180,
+        "totalGrains": 5200,
+        "pools": 1,
+        "ratio": 0.03461538461538462,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 858,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "08f942c2a68bd047af0ca33d6653e991f9cc52e5577646fcac3bc7f6d0f44713",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 22,
+      "id": 599,
+      "sourceCompetitor": 2,
+      "sourceSequence": 17,
+      "sourceId": 651,
+      "sourcePath": "competitor2-level/level-651.json",
+      "name": "我们的 22 · 折光",
+      "score": 3.63,
+      "sourceScore": 3.63,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 10,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 192.2,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 640,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+      ],
+      "sha256": "a8db001360a534547e86fffd865d78d5b0bb54f6008c97bed979b7108c1faadc"
+    },
+    {
+      "sequence": 23,
+      "id": 600,
+      "sourceCompetitor": 1,
+      "sourceSequence": 22,
+      "sourceId": 6,
+      "sourcePath": "level/level-6.json",
+      "name": "我们的 23 · 回廊",
+      "score": 2.19,
+      "sourceScore": 2.19,
+      "mechanics": [
+        "冰冻"
+      ],
+      "reflected": true,
+      "boxesMoved": 16,
+      "boxShapesMirrored": 6,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 164,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 1377,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "e6ffcff532131c2a0ccfd7ff2873be6320705108e64807f5f3e06dd7068dcf1e"
+    },
+    {
+      "sequence": 24,
+      "id": 601,
+      "sourceCompetitor": 2,
+      "sourceSequence": 21,
+      "sourceId": 656,
+      "sourcePath": "competitor2-level/level-656.json",
+      "name": "我们的 24 · 色阶",
+      "score": 4.72,
+      "sourceScore": 4.72,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 6,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 21960,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 480,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+      ],
+      "sha256": "0e804366a76f62b96b05d166de2f462f314339e787986d0ba35e13c4344aa7b5"
+    },
+    {
+      "sequence": 25,
+      "id": 602,
+      "sourceCompetitor": 1,
+      "sourceSequence": 25,
+      "sourceId": 5,
+      "sourcePath": "level/level-5.json",
+      "name": "我们的 25 · 映沙",
+      "score": 2.58,
+      "sourceScore": 2.58,
+      "mechanics": [
+        "冰冻",
+        "方向限制"
+      ],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 219.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 1782,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "18de2d29b753489fc23cc77bb077c9e32b838ccdcbd3b356dc41590e2fa7344c"
+    },
+    {
+      "sequence": 26,
+      "id": 603,
+      "sourceCompetitor": 2,
+      "sourceSequence": 23,
+      "sourceId": 658,
+      "sourcePath": "competitor2-level/level-658.json",
+      "name": "我们的 26 · 彩湾",
+      "score": 2.78,
+      "sourceScore": 2.78,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 8,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 192.2,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 660,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "e236b67e55079ece1f327e10efbad833c46b002dd5ae3dd305968d930477e468"
+    },
+    {
+      "sequence": 27,
+      "id": 604,
+      "sourceCompetitor": 1,
+      "sourceSequence": 26,
+      "sourceId": 345,
+      "sourcePath": "level/level-345.json",
+      "name": "我们的 27 · 折光",
+      "score": 1.07,
+      "sourceScore": 1.07,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 4804,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 245.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 30,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "6626270a229b3201c8c750cd7b3164f4050640585972a4f072066154b5cc1602",
+      "playtestStatus": "no-proof-within-search-budget"
+    },
+    {
+      "sequence": 28,
+      "id": 605,
+      "sourceCompetitor": 2,
+      "sourceSequence": 24,
+      "sourceId": 659,
+      "sourcePath": "competitor2-level/level-659.json",
+      "name": "我们的 28 · 回廊",
+      "score": 3.07,
+      "sourceScore": 3.07,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 7,
+      "boxShapesMirrored": 4,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 125.9,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 600,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+      ],
+      "sha256": "5e4a3a42500e8ec81d9293bf251fb95be5d4c40d256bb362c9ac92a6015c7127"
+    },
+    {
+      "sequence": 29,
+      "id": 606,
+      "sourceCompetitor": 1,
+      "sourceSequence": 27,
+      "sourceId": 343,
+      "sourcePath": "level/level-343.json",
+      "name": "我们的 29 · 色阶",
+      "score": 1.3,
+      "sourceScore": 1.3,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 4,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 219.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 288,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "a50bcef2169365dd348f9b0a530c553bb90c951c2cb76ef8ec3bc0f08d88f54f"
+    },
+    {
+      "sequence": 30,
+      "id": 607,
+      "sourceCompetitor": 2,
+      "sourceSequence": 26,
+      "sourceId": 663,
+      "sourcePath": "competitor2-level/level-663.json",
+      "name": "我们的 30 · 映沙",
+      "score": 1.19,
+      "sourceScore": 1.19,
+      "mechanics": [
+        "方向限制"
+      ],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 6728,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 218.4,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 90,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": true,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "f767387b3987861d7023d3a101c8a1ccd26200fe03de7f77e5a3bb1c34e90f07",
+      "playtestStatus": "won"
+    },
+    {
+      "sequence": 31,
+      "id": 608,
+      "sourceCompetitor": 1,
+      "sourceSequence": 28,
+      "sourceId": 344,
+      "sourcePath": "level/level-344.json",
+      "name": "我们的 31 · 彩湾",
+      "score": 1.75,
+      "sourceScore": 1.75,
+      "mechanics": [
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 10,
+      "boxShapesMirrored": 6,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 219.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 810,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "0f890f52f956eae4bacc60b14da66a92095895f0d9023b46b453aa8b6e5ec5a9"
+    },
+    {
+      "sequence": 32,
+      "id": 609,
+      "sourceCompetitor": 2,
+      "sourceSequence": 27,
+      "sourceId": 664,
+      "sourcePath": "competitor2-level/level-664.json",
+      "name": "我们的 32 · 折光",
+      "score": 3.2,
+      "sourceScore": 3.2,
+      "mechanics": [
+        "冰冻",
+        "方向限制"
+      ],
+      "reflected": true,
+      "boxesMoved": 9,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 138.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 704,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "f3a99fbe3755f187ca57228da92beb76d4a857ea7665f0a7d752f2736b9e98fd"
+    },
+    {
+      "sequence": 33,
+      "id": 610,
+      "sourceCompetitor": 1,
+      "sourceSequence": 33,
+      "sourceId": 14,
+      "sourcePath": "level/level-14.json",
+      "name": "我们的 33 · 回廊",
+      "score": 2.02,
+      "sourceScore": 2.02,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 10,
+      "boxShapesMirrored": 1,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 3328,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 153.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 528,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "14fb83065e1d44e6b5e07a5cd440b6697236f9d3a44456cd4fe6b02d4f81fa52"
+    },
+    {
+      "sequence": 34,
+      "id": 611,
+      "sourceCompetitor": 2,
+      "sourceSequence": 31,
+      "sourceId": 670,
+      "sourcePath": "competitor2-level/level-670.json",
+      "name": "我们的 34 · 色阶",
+      "score": 3.62,
+      "sourceScore": 3.62,
+      "mechanics": [
+        "方向限制",
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 4,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 143.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 270,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+      ],
+      "sha256": "807852b4a4108f7246ebb31ab05340da6f8f99bc26845c7108acbe2feaa1becd"
+    },
+    {
+      "sequence": 35,
+      "id": 612,
+      "sourceCompetitor": 1,
+      "sourceSequence": 34,
+      "sourceId": 15,
+      "sourcePath": "level/level-15.json",
+      "name": "我们的 35 · 映沙",
+      "score": 1.54,
+      "sourceScore": 1.54,
+      "mechanics": [],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 480,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "d19b00fd2ccfc898170d57d7b7ea2aef9dcb5136bb445dc4e5af7b57c292b36c"
+    },
+    {
+      "sequence": 36,
+      "id": 613,
+      "sourceCompetitor": 2,
+      "sourceSequence": 33,
+      "sourceId": 672,
+      "sourcePath": "competitor2-level/level-672.json",
+      "name": "我们的 36 · 彩湾",
+      "score": 4.3,
+      "sourceScore": 4.3,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 12,
+      "boxShapesMirrored": 3,
+      "pattern": {
+        "changedPixels": 480,
+        "totalGrains": 19620,
+        "pools": 1,
+        "ratio": 0.024464831804281346,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 728,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "e1e5a5589254bc44be2b35102e7d36af972ff90a2c542b0254c9aabe77c007ac",
+      "playtestStatus": "no-proof-within-search-budget"
+    },
+    {
+      "sequence": 37,
+      "id": 614,
+      "sourceCompetitor": 1,
+      "sourceSequence": 35,
+      "sourceId": 340,
+      "sourcePath": "level/level-340.json",
+      "name": "我们的 37 · 折光",
+      "score": 1.66,
+      "sourceScore": 1.66,
+      "mechanics": [
+        "方向限制",
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 8,
+      "boxShapesMirrored": 4,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 153.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 450,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "1504ba9c4668a03e68f6e856864ee2623c519eb1a9b8a8a3dd749aadd2f8eb38"
+    },
+    {
+      "sequence": 38,
+      "id": 615,
+      "sourceCompetitor": 2,
+      "sourceSequence": 35,
+      "sourceId": 674,
+      "sourcePath": "competitor2-level/level-674.json",
+      "name": "我们的 38 · 回廊",
+      "score": 4.45,
+      "sourceScore": 4.45,
+      "mechanics": [
+        "冰冻",
+        "多层盒"
+      ],
+      "reflected": true,
+      "boxesMoved": 12,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 720,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "double_box: 主 Color/SandCount 先吸收，DoubleBoxData 后吸收；双层切换与钥匙触发需实机核对"
+      ],
+      "sha256": "2b5e5f628b6e9dfa8f3d5fd8b40e6c37f4e61247b2e033402074f51a65824455"
+    },
+    {
+      "sequence": 39,
+      "id": 616,
+      "sourceCompetitor": 1,
+      "sourceSequence": 36,
+      "sourceId": 185,
+      "sourcePath": "level/level-185.json",
+      "name": "我们的 39 · 色阶",
+      "score": 1.4,
+      "sourceScore": 1.4,
+      "mechanics": [],
+      "reflected": true,
+      "boxesMoved": 8,
+      "boxShapesMirrored": 6,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 2424,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 161.2,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 540,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "0949d8b99cb7ab4d36ed495acad935efb0bd17008fe64799fcb23f8350a5978f"
+    },
+    {
+      "sequence": 40,
+      "id": 617,
+      "sourceCompetitor": 2,
+      "sourceSequence": 37,
+      "sourceId": 677,
+      "sourcePath": "competitor2-level/level-677.json",
+      "name": "我们的 40 · 映沙",
+      "score": 4.26,
+      "sourceScore": 4.26,
+      "mechanics": [
+        "冰冻"
+      ],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 213.4,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 588,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "6557ab4dcac3019f0ca10fbb6607b36dde3884e4896d7f7b7c6ff2329f77d9b0"
+    },
+    {
+      "sequence": 41,
+      "id": 618,
+      "sourceCompetitor": 1,
+      "sourceSequence": 37,
+      "sourceId": 341,
+      "sourcePath": "level/level-341.json",
+      "name": "我们的 41 · 彩湾",
+      "score": 1.7,
+      "sourceScore": 1.7,
+      "mechanics": [
+        "冰冻",
+        "方向限制"
+      ],
+      "reflected": true,
+      "boxesMoved": 9,
+      "boxShapesMirrored": 4,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 157.4,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 924,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "855d0feaa9db4c6e27c2ce12c75d58165bc2d7d76d915e2f8240985933031ca0"
+    },
+    {
+      "sequence": 42,
+      "id": 619,
+      "sourceCompetitor": 2,
+      "sourceSequence": 40,
+      "sourceId": 680,
+      "sourcePath": "competitor2-level/level-680.json",
+      "name": "我们的 42 · 折光",
+      "score": 2.24,
+      "sourceScore": 2.24,
+      "mechanics": [
+        "锁钥匙"
+      ],
+      "reflected": true,
+      "boxesMoved": 8,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 10440,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 227.8,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 378,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "key_identity_mapping: 按 KeyIds 建立锁组，锁外观不等同原版金银铜分类"
+      ],
+      "sha256": "e18ced83517c5b4f3c7a18534cd16fbbdd613dacf8f362c29b984394375bc221"
+    },
+    {
+      "sequence": 43,
+      "id": 620,
+      "sourceCompetitor": 1,
+      "sourceSequence": 40,
+      "sourceId": 54,
+      "sourcePath": "level/level-54.json",
+      "name": "我们的 43 · 回廊",
+      "score": 1.94,
+      "sourceScore": 1.94,
+      "mechanics": [
+        "锁钥匙"
+      ],
+      "reflected": true,
+      "boxesMoved": 6,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 190.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 294,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "8bf6a66e528f32405707720a4a6f32d925b47939b888bc59c0c29cf41e8944fe"
+    },
+    {
+      "sequence": 44,
+      "id": 621,
+      "sourceCompetitor": 2,
+      "sourceSequence": 41,
+      "sourceId": 681,
+      "sourcePath": "competitor2-level/level-681.json",
+      "name": "我们的 44 · 色阶",
+      "score": 3.92,
+      "sourceScore": 3.92,
+      "mechanics": [
+        "锁钥匙"
+      ],
+      "reflected": true,
+      "boxesMoved": 14,
+      "boxShapesMirrored": 1,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 143.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 952,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "key_identity_mapping: 按 KeyIds 建立锁组，锁外观不等同原版金银铜分类"
+      ],
+      "sha256": "8c591a0963cef3e420188ffca244894aebddf03b76d580920efcf817333642a9"
+    },
+    {
+      "sequence": 45,
+      "id": 622,
+      "sourceCompetitor": 1,
+      "sourceSequence": 43,
+      "sourceId": 44,
+      "sourcePath": "level/level-44.json",
+      "name": "我们的 45 · 映沙",
+      "score": 2.19,
+      "sourceScore": 2.19,
+      "mechanics": [
+        "冰冻",
+        "锁钥匙"
+      ],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 4800,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 161.2,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 936,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "e0dd064dc93a939fdb9501413e817fbb96a12eea7a94e7f049dbcef0ef8dd33a"
+    },
+    {
+      "sequence": 46,
+      "id": 623,
+      "sourceCompetitor": 2,
+      "sourceSequence": 43,
+      "sourceId": 683,
+      "sourcePath": "competitor2-level/level-683.json",
+      "name": "我们的 46 · 彩湾",
+      "score": 3.6,
+      "sourceScore": 3.6,
+      "mechanics": [
+        "冰冻",
+        "锁钥匙"
+      ],
+      "reflected": true,
+      "boxesMoved": 12,
+      "boxShapesMirrored": 2,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 143.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 1008,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "key_identity_mapping: 按 KeyIds 建立锁组，锁外观不等同原版金银铜分类"
+      ],
+      "sha256": "1db6b6b8fd498a09c0bd93f927d2168adb58384a33770a80461fe12d998c9e97"
+    },
+    {
+      "sequence": 47,
+      "id": 624,
+      "sourceCompetitor": 1,
+      "sourceSequence": 45,
+      "sourceId": 39,
+      "sourcePath": "level/level-39.json",
+      "name": "我们的 47 · 折光",
+      "score": 2.04,
+      "sourceScore": 2.04,
+      "mechanics": [
+        "锁钥匙"
+      ],
+      "reflected": true,
+      "boxesMoved": 13,
+      "boxShapesMirrored": 5,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 153.5,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 819,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "284660f43edc95df0c1decb26838dc4df05a3af0a9801189206b4e002d0eebd4"
+    },
+    {
+      "sequence": 48,
+      "id": 625,
+      "sourceCompetitor": 2,
+      "sourceSequence": 46,
+      "sourceId": 689,
+      "sourcePath": "competitor2-level/level-689.json",
+      "name": "我们的 48 · 回廊",
+      "score": 4,
+      "sourceScore": 4,
+      "mechanics": [
+        "锁钥匙"
+      ],
+      "reflected": true,
+      "boxesMoved": 11,
+      "boxShapesMirrored": 3,
+      "pattern": {
+        "changedPixels": 0,
+        "totalGrains": 16200,
+        "pools": 0,
+        "ratio": 0,
+        "boundaryBand": "one full cell unchanged",
+        "rowColorCountsPreserved": true
+      },
+      "minimumColorRgbDistance": 143.6,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 832,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [
+        "key_identity_mapping: 按 KeyIds 建立锁组，锁外观不等同原版金银铜分类"
+      ],
+      "sha256": "568cb4539039a43df516aee458e77e55c539dd5444c6fd756fdd21cdea7d9bc9"
+    },
+    {
+      "sequence": 49,
+      "id": 626,
+      "sourceCompetitor": 1,
+      "sourceSequence": 50,
+      "sourceId": 437,
+      "sourcePath": "level/level-437.json",
+      "name": "我们的 49 · 色阶",
+      "score": 1.39,
+      "sourceScore": 1.39,
+      "mechanics": [
+        "管道"
+      ],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 140.7,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 280,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "4818906e7867ada819d4d45a66acf119e0019760689423f3e7146a25e3be1ef3",
+      "playtestStatus": "no-proof-within-search-budget"
+    },
+    {
+      "sequence": 50,
+      "id": 627,
+      "sourceCompetitor": 2,
+      "sourceSequence": 50,
+      "sourceId": 693,
+      "sourcePath": "competitor2-level/level-693.json",
+      "name": "我们的 50 · 映沙",
+      "score": 3.88,
+      "sourceScore": 3.88,
+      "mechanics": [],
+      "reflected": false,
+      "boxesMoved": 0,
+      "boxShapesMirrored": 0,
+      "pattern": {
+        "changedPixels": 0,
+        "pools": 0,
+        "ratio": 0
+      },
+      "minimumColorRgbDistance": 183.4,
+      "checks": {
+        "structural": true,
+        "layout": true,
+        "colorSupplyMapping": true,
+        "initialMovePlacements": 819,
+        "colorOnlySimulationMoves": 14,
+        "idle30Seconds": true
+      },
+      "playthroughVerified": false,
+      "minimumMovesProved": false,
+      "sourceCompatibilityNotes": [],
+      "sha256": "9a255e26eedb9f3ffa57f932f4dc556a85af9387e7330a0c5f05c2e7e5e5218e"
+    }
+  ]
+}

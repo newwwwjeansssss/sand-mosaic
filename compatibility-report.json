@@ -1,0 +1,5791 @@
+{
+  "total": 577,
+  "loadable": 576,
+  "mainline": 550,
+  "loop": 150,
+  "featureCounts": {
+    "linkedPits": 250,
+    "pipes": 487,
+    "garages": 298,
+    "grinders": 67,
+    "gluedGroups": 73,
+    "platformBlockers": 93,
+    "dispensers": 67,
+    "coloredGrids": 50
+  },
+  "verification": "逐字节 SHA-256、全部关卡构建、短步模拟、源配置不变、沙量审计；未宣称所有关卡已通关",
+  "results": [
+    {
+      "id": 1,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 18088,
+      "initialPits": 21
+    },
+    {
+      "id": 2,
+      "mainline": [
+        21
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6528,
+      "initialPits": 14
+    },
+    {
+      "id": 3,
+      "mainline": [
+        31
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4672,
+      "initialPits": 19
+    },
+    {
+      "id": 4,
+      "mainline": [
+        32
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6656,
+      "initialPits": 20
+    },
+    {
+      "id": 5,
+      "mainline": [
+        25
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4671,
+      "initialPits": 18
+    },
+    {
+      "id": 6,
+      "mainline": [
+        22
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4300,
+      "initialPits": 17
+    },
+    {
+      "id": 7,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2752,
+      "initialPits": 3
+    },
+    {
+      "id": 8,
+      "mainline": [],
+      "errors": [
+        "原配置不满足 Unity 加载条件：棋盘尺寸必须有效，时间必须大于 0"
+      ],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ]
+    },
+    {
+      "id": 9,
+      "mainline": [
+        17
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4416,
+      "initialPits": 18
+    },
+    {
+      "id": 10,
+      "mainline": [
+        18
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6456,
+      "initialPits": 12
+    },
+    {
+      "id": 11,
+      "mainline": [
+        19
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5200,
+      "initialPits": 13
+    },
+    {
+      "id": 12,
+      "mainline": [
+        16
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5000,
+      "initialPits": 3
+    },
+    {
+      "id": 13,
+      "mainline": [
+        5
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 6
+    },
+    {
+      "id": 14,
+      "mainline": [
+        33
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3328,
+      "initialPits": 11
+    },
+    {
+      "id": 15,
+      "mainline": [
+        34
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4008,
+      "initialPits": 10
+    },
+    {
+      "id": 16,
+      "mainline": [
+        71
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5952,
+      "initialPits": 12
+    },
+    {
+      "id": 17,
+      "mainline": [
+        82
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2184,
+      "initialPits": 24
+    },
+    {
+      "id": 18,
+      "mainline": [
+        81
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1540,
+      "initialPits": 15
+    },
+    {
+      "id": 19,
+      "mainline": [
+        83
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3336,
+      "initialPits": 20
+    },
+    {
+      "id": 20,
+      "mainline": [
+        84
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 14
+    },
+    {
+      "id": 21,
+      "mainline": [
+        88
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4224,
+      "initialPits": 16
+    },
+    {
+      "id": 22,
+      "mainline": [
+        86
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1232,
+      "initialPits": 23
+    },
+    {
+      "id": 23,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 1988,
+      "initialPits": 22
+    },
+    {
+      "id": 24,
+      "mainline": [
+        77
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3248,
+      "initialPits": 21
+    },
+    {
+      "id": 25,
+      "mainline": [
+        89
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5248,
+      "initialPits": 19
+    },
+    {
+      "id": 26,
+      "mainline": [
+        72
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4096,
+      "initialPits": 14
+    },
+    {
+      "id": 27,
+      "mainline": [
+        78
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2856,
+      "initialPits": 16
+    },
+    {
+      "id": 28,
+      "mainline": [
+        79
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3690,
+      "initialPits": 9
+    },
+    {
+      "id": 29,
+      "mainline": [
+        75
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7300,
+      "initialPits": 19
+    },
+    {
+      "id": 30,
+      "mainline": [
+        73
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 18
+    },
+    {
+      "id": 31,
+      "mainline": [
+        76
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4800,
+      "initialPits": 15
+    },
+    {
+      "id": 32,
+      "mainline": [
+        102
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 23
+    },
+    {
+      "id": 33,
+      "mainline": [
+        70
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4100,
+      "initialPits": 6
+    },
+    {
+      "id": 34,
+      "mainline": [
+        7
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 10024,
+      "initialPits": 7
+    },
+    {
+      "id": 35,
+      "mainline": [
+        10
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6100,
+      "initialPits": 20
+    },
+    {
+      "id": 36,
+      "mainline": [
+        11
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6656,
+      "initialPits": 16
+    },
+    {
+      "id": 37,
+      "mainline": [
+        24
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 10000,
+      "initialPits": 22
+    },
+    {
+      "id": 38,
+      "mainline": [
+        23
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 12000,
+      "initialPits": 24
+    },
+    {
+      "id": 39,
+      "mainline": [
+        45
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3756,
+      "initialPits": 13
+    },
+    {
+      "id": 40,
+      "mainline": [
+        105
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5144,
+      "initialPits": 13
+    },
+    {
+      "id": 41,
+      "mainline": [
+        48
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6040,
+      "initialPits": 17
+    },
+    {
+      "id": 42,
+      "mainline": [
+        44
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 8848,
+      "initialPits": 18
+    },
+    {
+      "id": 43,
+      "mainline": [
+        54
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7100,
+      "initialPits": 21
+    },
+    {
+      "id": 44,
+      "mainline": [
+        43
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4800,
+      "initialPits": 13
+    },
+    {
+      "id": 45,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 6200,
+      "initialPits": 23
+    },
+    {
+      "id": 46,
+      "mainline": [
+        114
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6152,
+      "initialPits": 23
+    },
+    {
+      "id": 47,
+      "mainline": [
+        49
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 8648,
+      "initialPits": 20
+    },
+    {
+      "id": 48,
+      "mainline": [
+        119
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 700,
+      "initialPits": 17
+    },
+    {
+      "id": 49,
+      "mainline": [
+        66
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7104,
+      "initialPits": 17
+    },
+    {
+      "id": 50,
+      "mainline": [
+        64
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 21
+    },
+    {
+      "id": 51,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 4800,
+      "initialPits": 16
+    },
+    {
+      "id": 52,
+      "mainline": [
+        111
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 23
+    },
+    {
+      "id": 53,
+      "mainline": [
+        42
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4800,
+      "initialPits": 22
+    },
+    {
+      "id": 54,
+      "mainline": [
+        40
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5200,
+      "initialPits": 7
+    },
+    {
+      "id": 55,
+      "mainline": [
+        41
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 11640,
+      "initialPits": 16
+    },
+    {
+      "id": 56,
+      "mainline": [
+        59
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4358,
+      "initialPits": 13
+    },
+    {
+      "id": 57,
+      "mainline": [
+        13
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5848,
+      "initialPits": 18
+    },
+    {
+      "id": 58,
+      "mainline": [
+        1
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 2
+    },
+    {
+      "id": 59,
+      "mainline": [
+        2
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2752,
+      "initialPits": 3
+    },
+    {
+      "id": 60,
+      "mainline": [
+        3
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4300,
+      "initialPits": 4
+    },
+    {
+      "id": 61,
+      "mainline": [
+        4
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5200,
+      "initialPits": 6
+    },
+    {
+      "id": 62,
+      "mainline": [
+        6
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4624,
+      "initialPits": 11
+    },
+    {
+      "id": 63,
+      "mainline": [
+        12
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 9520,
+      "initialPits": 13
+    },
+    {
+      "id": 64,
+      "mainline": [
+        187
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3500,
+      "initialPits": 25
+    },
+    {
+      "id": 65,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2240,
+      "initialPits": 26
+    },
+    {
+      "id": 66,
+      "mainline": [
+        181
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 23
+    },
+    {
+      "id": 67,
+      "mainline": [
+        182
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 19
+    },
+    {
+      "id": 68,
+      "mainline": [
+        178
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1848,
+      "initialPits": 24
+    },
+    {
+      "id": 69,
+      "mainline": [
+        176
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2016,
+      "initialPits": 25
+    },
+    {
+      "id": 70,
+      "mainline": [
+        185
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1118,
+      "initialPits": 17
+    },
+    {
+      "id": 71,
+      "mainline": [
+        179
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 22
+    },
+    {
+      "id": 72,
+      "mainline": [
+        191
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2296,
+      "initialPits": 24
+    },
+    {
+      "id": 73,
+      "mainline": [
+        183
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2996,
+      "initialPits": 33
+    },
+    {
+      "id": 74,
+      "mainline": [
+        196
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 17
+    },
+    {
+      "id": 75,
+      "mainline": [
+        173
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 20
+    },
+    {
+      "id": 76,
+      "mainline": [
+        186
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 18
+    },
+    {
+      "id": 77,
+      "mainline": [
+        198
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 700,
+      "initialPits": 29
+    },
+    {
+      "id": 78,
+      "mainline": [
+        177
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 21
+    },
+    {
+      "id": 79,
+      "mainline": [
+        199
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 33
+    },
+    {
+      "id": 80,
+      "mainline": [
+        194
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1288,
+      "initialPits": 17
+    },
+    {
+      "id": 81,
+      "mainline": [
+        188
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1288,
+      "initialPits": 19
+    },
+    {
+      "id": 82,
+      "mainline": [
+        171
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 952,
+      "initialPits": 9
+    },
+    {
+      "id": 83,
+      "mainline": [
+        172
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 11
+    },
+    {
+      "id": 84,
+      "mainline": [
+        197
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 13
+    },
+    {
+      "id": 85,
+      "mainline": [
+        174
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 22
+    },
+    {
+      "id": 86,
+      "mainline": [
+        441
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 39
+    },
+    {
+      "id": 87,
+      "mainline": [
+        450
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 26
+    },
+    {
+      "id": 88,
+      "mainline": [
+        422
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 28
+    },
+    {
+      "id": 89,
+      "mainline": [
+        410
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 28
+    },
+    {
+      "id": 90,
+      "mainline": [
+        403
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 33
+    },
+    {
+      "id": 91,
+      "mainline": [
+        420
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 33
+    },
+    {
+      "id": 92,
+      "mainline": [
+        417
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1904,
+      "initialPits": 19
+    },
+    {
+      "id": 93,
+      "mainline": [
+        440
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1736,
+      "initialPits": 36
+    },
+    {
+      "id": 94,
+      "mainline": [
+        444
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 18
+    },
+    {
+      "id": 95,
+      "mainline": [
+        416
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 30
+    },
+    {
+      "id": 96,
+      "mainline": [
+        423
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2436,
+      "initialPits": 29
+    },
+    {
+      "id": 97,
+      "mainline": [
+        406
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 25
+    },
+    {
+      "id": 98,
+      "mainline": [
+        427
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 24
+    },
+    {
+      "id": 99,
+      "mainline": [
+        426
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 31
+    },
+    {
+      "id": 100,
+      "mainline": [
+        425
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 33
+    },
+    {
+      "id": 101,
+      "mainline": [
+        446
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 30
+    },
+    {
+      "id": 102,
+      "mainline": [
+        439
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 26
+    },
+    {
+      "id": 103,
+      "mainline": [
+        442
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 30
+    },
+    {
+      "id": 104,
+      "mainline": [
+        443
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 25
+    },
+    {
+      "id": 105,
+      "mainline": [
+        431
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 47
+    },
+    {
+      "id": 106,
+      "mainline": [
+        447
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 29
+    },
+    {
+      "id": 107,
+      "mainline": [
+        433
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 32
+    },
+    {
+      "id": 108,
+      "mainline": [
+        436
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 29
+    },
+    {
+      "id": 109,
+      "mainline": [
+        445
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 34
+    },
+    {
+      "id": 110,
+      "mainline": [
+        405
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 35
+    },
+    {
+      "id": 111,
+      "mainline": [
+        432
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 32
+    },
+    {
+      "id": 112,
+      "mainline": [
+        418
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 39
+    },
+    {
+      "id": 113,
+      "mainline": [
+        404
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1472,
+      "initialPits": 31
+    },
+    {
+      "id": 114,
+      "mainline": [
+        428
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 30
+    },
+    {
+      "id": 115,
+      "mainline": [
+        414
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1472,
+      "initialPits": 30
+    },
+    {
+      "id": 116,
+      "mainline": [
+        409
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 22
+    },
+    {
+      "id": 117,
+      "mainline": [
+        435
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 24
+    },
+    {
+      "id": 118,
+      "mainline": [
+        411
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1416,
+      "initialPits": 30
+    },
+    {
+      "id": 119,
+      "mainline": [
+        412
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 27
+    },
+    {
+      "id": 120,
+      "mainline": [
+        421
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1024,
+      "initialPits": 31
+    },
+    {
+      "id": 121,
+      "mainline": [
+        413
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 30
+    },
+    {
+      "id": 122,
+      "mainline": [
+        434
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1724,
+      "initialPits": 29
+    },
+    {
+      "id": 123,
+      "mainline": [
+        408
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1024,
+      "initialPits": 31
+    },
+    {
+      "id": 124,
+      "mainline": [
+        419
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 35
+    },
+    {
+      "id": 125,
+      "mainline": [
+        437
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 23
+    },
+    {
+      "id": 126,
+      "mainline": [
+        449
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1904,
+      "initialPits": 27
+    },
+    {
+      "id": 127,
+      "mainline": [
+        415
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 31
+    },
+    {
+      "id": 128,
+      "mainline": [
+        429
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 21
+    },
+    {
+      "id": 129,
+      "mainline": [
+        424
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 27
+    },
+    {
+      "id": 130,
+      "mainline": [
+        401
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2688,
+      "initialPits": 32
+    },
+    {
+      "id": 131,
+      "mainline": [
+        402
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2172,
+      "initialPits": 27
+    },
+    {
+      "id": 132,
+      "mainline": [
+        438
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 196,
+      "initialPits": 29
+    },
+    {
+      "id": 133,
+      "mainline": [
+        407
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 29
+    },
+    {
+      "id": 134,
+      "mainline": [
+        448
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 25
+    },
+    {
+      "id": 135,
+      "mainline": [
+        430
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2912,
+      "initialPits": 28
+    },
+    {
+      "id": 136,
+      "mainline": [
+        500
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 36
+    },
+    {
+      "id": 137,
+      "mainline": [
+        495
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2296,
+      "initialPits": 26
+    },
+    {
+      "id": 138,
+      "mainline": [
+        469
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 31
+    },
+    {
+      "id": 139,
+      "mainline": [
+        470
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 27
+    },
+    {
+      "id": 140,
+      "mainline": [
+        489
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 30
+    },
+    {
+      "id": 141,
+      "mainline": [
+        496
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1148,
+      "initialPits": 29
+    },
+    {
+      "id": 142,
+      "mainline": [
+        491
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 35
+    },
+    {
+      "id": 143,
+      "mainline": [
+        479
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2560,
+      "initialPits": 26
+    },
+    {
+      "id": 144,
+      "mainline": [
+        483
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 30
+    },
+    {
+      "id": 145,
+      "mainline": [
+        453
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2036,
+      "initialPits": 22
+    },
+    {
+      "id": 146,
+      "mainline": [
+        494
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 37
+    },
+    {
+      "id": 147,
+      "mainline": [
+        461
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 17
+    },
+    {
+      "id": 148,
+      "mainline": [
+        474
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2214,
+      "initialPits": 25
+    },
+    {
+      "id": 149,
+      "mainline": [
+        487
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1540,
+      "initialPits": 21
+    },
+    {
+      "id": 150,
+      "mainline": [
+        484
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 28
+    },
+    {
+      "id": 151,
+      "mainline": [
+        485
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 21
+    },
+    {
+      "id": 152,
+      "mainline": [
+        466
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 28
+    },
+    {
+      "id": 153,
+      "mainline": [
+        498
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 33
+    },
+    {
+      "id": 154,
+      "mainline": [
+        454
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1540,
+      "initialPits": 29
+    },
+    {
+      "id": 155,
+      "mainline": [
+        497
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1148,
+      "initialPits": 33
+    },
+    {
+      "id": 156,
+      "mainline": [
+        452
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 25
+    },
+    {
+      "id": 157,
+      "mainline": [
+        462
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 23
+    },
+    {
+      "id": 158,
+      "mainline": [
+        492
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 34
+    },
+    {
+      "id": 159,
+      "mainline": [
+        471
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 34
+    },
+    {
+      "id": 160,
+      "mainline": [
+        455
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 19
+    },
+    {
+      "id": 161,
+      "mainline": [
+        465
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 25
+    },
+    {
+      "id": 162,
+      "mainline": [
+        468
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 364,
+      "initialPits": 19
+    },
+    {
+      "id": 163,
+      "mainline": [
+        472
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1708,
+      "initialPits": 21
+    },
+    {
+      "id": 164,
+      "mainline": [
+        458
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 27
+    },
+    {
+      "id": 165,
+      "mainline": [
+        467
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 588,
+      "initialPits": 23
+    },
+    {
+      "id": 166,
+      "mainline": [
+        476
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 30
+    },
+    {
+      "id": 167,
+      "mainline": [
+        475
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1848,
+      "initialPits": 31
+    },
+    {
+      "id": 168,
+      "mainline": [
+        460
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 832,
+      "initialPits": 22
+    },
+    {
+      "id": 169,
+      "mainline": [
+        456
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1540,
+      "initialPits": 22
+    },
+    {
+      "id": 170,
+      "mainline": [
+        493
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1472,
+      "initialPits": 32
+    },
+    {
+      "id": 171,
+      "mainline": [
+        482
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 34
+    },
+    {
+      "id": 172,
+      "mainline": [
+        490
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 34
+    },
+    {
+      "id": 173,
+      "mainline": [
+        463
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 26
+    },
+    {
+      "id": 174,
+      "mainline": [
+        499
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 28
+    },
+    {
+      "id": 175,
+      "mainline": [
+        488
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 23
+    },
+    {
+      "id": 176,
+      "mainline": [
+        459
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 12
+    },
+    {
+      "id": 177,
+      "mainline": [
+        481
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1400,
+      "initialPits": 28
+    },
+    {
+      "id": 178,
+      "mainline": [
+        464
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 29
+    },
+    {
+      "id": 179,
+      "mainline": [
+        480
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2172,
+      "initialPits": 32
+    },
+    {
+      "id": 180,
+      "mainline": [
+        451
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 14
+    },
+    {
+      "id": 181,
+      "mainline": [
+        478
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 29
+    },
+    {
+      "id": 182,
+      "mainline": [
+        473
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2480,
+      "initialPits": 23
+    },
+    {
+      "id": 183,
+      "mainline": [
+        477
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 27
+    },
+    {
+      "id": 184,
+      "mainline": [
+        486
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1288,
+      "initialPits": 26
+    },
+    {
+      "id": 185,
+      "mainline": [
+        36
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2424,
+      "initialPits": 9
+    },
+    {
+      "id": 186,
+      "mainline": [
+        175
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1024,
+      "initialPits": 21
+    },
+    {
+      "id": 187,
+      "mainline": [
+        68
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6008,
+      "initialPits": 21
+    },
+    {
+      "id": 188,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 1400,
+      "initialPits": 2
+    },
+    {
+      "id": 189,
+      "mainline": [
+        38
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 8296,
+      "initialPits": 16
+    },
+    {
+      "id": 190,
+      "mainline": [
+        167
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2752,
+      "initialPits": 23
+    },
+    {
+      "id": 191,
+      "mainline": [
+        170
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2996,
+      "initialPits": 26
+    },
+    {
+      "id": 192,
+      "mainline": [
+        162
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3648,
+      "initialPits": 17
+    },
+    {
+      "id": 193,
+      "mainline": [
+        165
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3632,
+      "initialPits": 25
+    },
+    {
+      "id": 194,
+      "mainline": [
+        157
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 20
+    },
+    {
+      "id": 195,
+      "mainline": [
+        168
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 22
+    },
+    {
+      "id": 196,
+      "mainline": [
+        192
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1484,
+      "initialPits": 28
+    },
+    {
+      "id": 197,
+      "mainline": [
+        156
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2888,
+      "initialPits": 28
+    },
+    {
+      "id": 198,
+      "mainline": [
+        163
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1724,
+      "initialPits": 24
+    },
+    {
+      "id": 199,
+      "mainline": [
+        164
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1904,
+      "initialPits": 29
+    },
+    {
+      "id": 200,
+      "mainline": [
+        153
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 20
+    },
+    {
+      "id": 201,
+      "mainline": [
+        154
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 20
+    },
+    {
+      "id": 202,
+      "mainline": [
+        166
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 23
+    },
+    {
+      "id": 203,
+      "mainline": [
+        159
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 840,
+      "initialPits": 25
+    },
+    {
+      "id": 204,
+      "mainline": [
+        161
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3500,
+      "initialPits": 27
+    },
+    {
+      "id": 205,
+      "mainline": [
+        155
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 30
+    },
+    {
+      "id": 206,
+      "mainline": [
+        158
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 21
+    },
+    {
+      "id": 207,
+      "mainline": [
+        169
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6004,
+      "initialPits": 38
+    },
+    {
+      "id": 208,
+      "mainline": [
+        160
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3072,
+      "initialPits": 30
+    },
+    {
+      "id": 209,
+      "mainline": [
+        152
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 24
+    },
+    {
+      "id": 210,
+      "mainline": [
+        151
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1024,
+      "initialPits": 13
+    },
+    {
+      "id": 211,
+      "mainline": [
+        369
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 33
+    },
+    {
+      "id": 212,
+      "mainline": [
+        372
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 32
+    },
+    {
+      "id": 213,
+      "mainline": [
+        399
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 31
+    },
+    {
+      "id": 214,
+      "mainline": [
+        390
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2976,
+      "initialPits": 21
+    },
+    {
+      "id": 215,
+      "mainline": [
+        371
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 30
+    },
+    {
+      "id": 216,
+      "mainline": [
+        353
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 26
+    },
+    {
+      "id": 217,
+      "mainline": [
+        375
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 25
+    },
+    {
+      "id": 218,
+      "mainline": [
+        358
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 20
+    },
+    {
+      "id": 219,
+      "mainline": [
+        381
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 16
+    },
+    {
+      "id": 220,
+      "mainline": [
+        362
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2944,
+      "initialPits": 25
+    },
+    {
+      "id": 221,
+      "mainline": [
+        366
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 23
+    },
+    {
+      "id": 222,
+      "mainline": [
+        386
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 22
+    },
+    {
+      "id": 223,
+      "mainline": [
+        352
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 24
+    },
+    {
+      "id": 224,
+      "mainline": [
+        394
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 18
+    },
+    {
+      "id": 225,
+      "mainline": [
+        392
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1540,
+      "initialPits": 29
+    },
+    {
+      "id": 226,
+      "mainline": [
+        357
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 25
+    },
+    {
+      "id": 227,
+      "mainline": [
+        388
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2624,
+      "initialPits": 27
+    },
+    {
+      "id": 228,
+      "mainline": [
+        360
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3072,
+      "initialPits": 29
+    },
+    {
+      "id": 229,
+      "mainline": [
+        368
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 31
+    },
+    {
+      "id": 230,
+      "mainline": [
+        370
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 26
+    },
+    {
+      "id": 231,
+      "mainline": [
+        354
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 25
+    },
+    {
+      "id": 232,
+      "mainline": [
+        367
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 233,
+      "mainline": [
+        396
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 32
+    },
+    {
+      "id": 234,
+      "mainline": [
+        389
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 33
+    },
+    {
+      "id": 235,
+      "mainline": [
+        359
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1956,
+      "initialPits": 33
+    },
+    {
+      "id": 236,
+      "mainline": [
+        384
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 29
+    },
+    {
+      "id": 237,
+      "mainline": [
+        400
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1456,
+      "initialPits": 16
+    },
+    {
+      "id": 238,
+      "mainline": [
+        379
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 19
+    },
+    {
+      "id": 239,
+      "mainline": [
+        383
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 20
+    },
+    {
+      "id": 240,
+      "mainline": [
+        365
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3072,
+      "initialPits": 22
+    },
+    {
+      "id": 241,
+      "mainline": [
+        356
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 22
+    },
+    {
+      "id": 242,
+      "mainline": [
+        391
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 243,
+      "mainline": [
+        398
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 30
+    },
+    {
+      "id": 244,
+      "mainline": [
+        363
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3516,
+      "initialPits": 20
+    },
+    {
+      "id": 245,
+      "mainline": [
+        373
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2352,
+      "initialPits": 28
+    },
+    {
+      "id": 246,
+      "mainline": [
+        380
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 31
+    },
+    {
+      "id": 247,
+      "mainline": [
+        395
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3200,
+      "initialPits": 15
+    },
+    {
+      "id": 248,
+      "mainline": [
+        397
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 12
+    },
+    {
+      "id": 249,
+      "mainline": [
+        378
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 15
+    },
+    {
+      "id": 250,
+      "mainline": [
+        387
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 14
+    },
+    {
+      "id": 251,
+      "mainline": [
+        355
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3100,
+      "initialPits": 26
+    },
+    {
+      "id": 252,
+      "mainline": [
+        377
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1736,
+      "initialPits": 21
+    },
+    {
+      "id": 253,
+      "mainline": [
+        393
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 27
+    },
+    {
+      "id": 254,
+      "mainline": [
+        382
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1288,
+      "initialPits": 30
+    },
+    {
+      "id": 255,
+      "mainline": [
+        374
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 26
+    },
+    {
+      "id": 256,
+      "mainline": [
+        385
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 26
+    },
+    {
+      "id": 257,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问",
+        "无容器目标：原 Unity 胜利条件要求容器数大于 0"
+      ],
+      "grains": 0,
+      "initialPits": 0
+    },
+    {
+      "id": 258,
+      "mainline": [
+        351
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2496,
+      "initialPits": 9
+    },
+    {
+      "id": 259,
+      "mainline": [
+        376
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1736,
+      "initialPits": 28
+    },
+    {
+      "id": 260,
+      "mainline": [
+        361
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2208,
+      "initialPits": 27
+    },
+    {
+      "id": 261,
+      "mainline": [
+        74
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7048,
+      "initialPits": 18
+    },
+    {
+      "id": 262,
+      "mainline": [
+        94
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3532,
+      "initialPits": 33
+    },
+    {
+      "id": 263,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 3480,
+      "initialPits": 21
+    },
+    {
+      "id": 264,
+      "mainline": [
+        96
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4992,
+      "initialPits": 16
+    },
+    {
+      "id": 265,
+      "mainline": [
+        95
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5301,
+      "initialPits": 19
+    },
+    {
+      "id": 266,
+      "mainline": [
+        107
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5368,
+      "initialPits": 21
+    },
+    {
+      "id": 267,
+      "mainline": [
+        97
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3516,
+      "initialPits": 20
+    },
+    {
+      "id": 268,
+      "mainline": [
+        118
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2800,
+      "initialPits": 29
+    },
+    {
+      "id": 269,
+      "mainline": [
+        117
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6020,
+      "initialPits": 22
+    },
+    {
+      "id": 270,
+      "mainline": [
+        113
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 18
+    },
+    {
+      "id": 271,
+      "mainline": [
+        101
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3644,
+      "initialPits": 22
+    },
+    {
+      "id": 272,
+      "mainline": [
+        93
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 21
+    },
+    {
+      "id": 273,
+      "mainline": [
+        99
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5000,
+      "initialPits": 21
+    },
+    {
+      "id": 274,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 8832,
+      "initialPits": 22
+    },
+    {
+      "id": 275,
+      "mainline": [
+        104
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 8160,
+      "initialPits": 16
+    },
+    {
+      "id": 276,
+      "mainline": [
+        106
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5152,
+      "initialPits": 20
+    },
+    {
+      "id": 277,
+      "mainline": [
+        112
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6560,
+      "initialPits": 23
+    },
+    {
+      "id": 278,
+      "mainline": [
+        116
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4592,
+      "initialPits": 35
+    },
+    {
+      "id": 279,
+      "mainline": [
+        92
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6146,
+      "initialPits": 19
+    },
+    {
+      "id": 280,
+      "mainline": [
+        90
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4576,
+      "initialPits": 8
+    },
+    {
+      "id": 281,
+      "mainline": [
+        283
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1600,
+      "initialPits": 20
+    },
+    {
+      "id": 282,
+      "mainline": [
+        265
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 28
+    },
+    {
+      "id": 283,
+      "mainline": [
+        270
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 27
+    },
+    {
+      "id": 284,
+      "mainline": [
+        261
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 285,
+      "mainline": [
+        271
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 16
+    },
+    {
+      "id": 286,
+      "mainline": [
+        269
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 25
+    },
+    {
+      "id": 287,
+      "mainline": [
+        280
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 38
+    },
+    {
+      "id": 288,
+      "mainline": [
+        295
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 28
+    },
+    {
+      "id": 289,
+      "mainline": [
+        277
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 29
+    },
+    {
+      "id": 290,
+      "mainline": [
+        264
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1400,
+      "initialPits": 32
+    },
+    {
+      "id": 291,
+      "mainline": [
+        274
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 19
+    },
+    {
+      "id": 292,
+      "mainline": [
+        278
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2800,
+      "initialPits": 22
+    },
+    {
+      "id": 293,
+      "mainline": [
+        297
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2744,
+      "initialPits": 29
+    },
+    {
+      "id": 294,
+      "mainline": [
+        272
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 25
+    },
+    {
+      "id": 295,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2100,
+      "initialPits": 17
+    },
+    {
+      "id": 296,
+      "mainline": [
+        262
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3072,
+      "initialPits": 25
+    },
+    {
+      "id": 297,
+      "mainline": [
+        289
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2562,
+      "initialPits": 38
+    },
+    {
+      "id": 298,
+      "mainline": [
+        275
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1484,
+      "initialPits": 35
+    },
+    {
+      "id": 299,
+      "mainline": [
+        256
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 28
+    },
+    {
+      "id": 300,
+      "mainline": [
+        267
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 24
+    },
+    {
+      "id": 301,
+      "mainline": [
+        259
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 23
+    },
+    {
+      "id": 302,
+      "mainline": [
+        276
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 24
+    },
+    {
+      "id": 303,
+      "mainline": [
+        281
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 22
+    },
+    {
+      "id": 304,
+      "mainline": [
+        254
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4694,
+      "initialPits": 24
+    },
+    {
+      "id": 305,
+      "mainline": [
+        273
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 34
+    },
+    {
+      "id": 306,
+      "mainline": [
+        266
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 27
+    },
+    {
+      "id": 307,
+      "mainline": [
+        285
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 31
+    },
+    {
+      "id": 308,
+      "mainline": [
+        255
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1540,
+      "initialPits": 26
+    },
+    {
+      "id": 309,
+      "mainline": [
+        263
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 28
+    },
+    {
+      "id": 310,
+      "mainline": [
+        296
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 27
+    },
+    {
+      "id": 311,
+      "mainline": [
+        291
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 30
+    },
+    {
+      "id": 312,
+      "mainline": [
+        260
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2496,
+      "initialPits": 28
+    },
+    {
+      "id": 313,
+      "mainline": [
+        288
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 28
+    },
+    {
+      "id": 314,
+      "mainline": [
+        298
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1904,
+      "initialPits": 25
+    },
+    {
+      "id": 315,
+      "mainline": [
+        268
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 25
+    },
+    {
+      "id": 316,
+      "mainline": [
+        294
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 31
+    },
+    {
+      "id": 317,
+      "mainline": [
+        286
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2212,
+      "initialPits": 18
+    },
+    {
+      "id": 318,
+      "mainline": [
+        290
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2548,
+      "initialPits": 28
+    },
+    {
+      "id": 319,
+      "mainline": [
+        293
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 30
+    },
+    {
+      "id": 320,
+      "mainline": [
+        282
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1904,
+      "initialPits": 23
+    },
+    {
+      "id": 321,
+      "mainline": [
+        300
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2172,
+      "initialPits": 24
+    },
+    {
+      "id": 322,
+      "mainline": [
+        257
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2800,
+      "initialPits": 29
+    },
+    {
+      "id": 323,
+      "mainline": [
+        253
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2296,
+      "initialPits": 23
+    },
+    {
+      "id": 324,
+      "mainline": [
+        251
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 10
+    },
+    {
+      "id": 325,
+      "mainline": [
+        252
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 21
+    },
+    {
+      "id": 326,
+      "mainline": [
+        279
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 23
+    },
+    {
+      "id": 327,
+      "mainline": [
+        284
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 22
+    },
+    {
+      "id": 328,
+      "mainline": [
+        287
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4216,
+      "initialPits": 31
+    },
+    {
+      "id": 329,
+      "mainline": [
+        299
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3388,
+      "initialPits": 35
+    },
+    {
+      "id": 330,
+      "mainline": [
+        242
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2624,
+      "initialPits": 23
+    },
+    {
+      "id": 331,
+      "mainline": [
+        91
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6884,
+      "initialPits": 20
+    },
+    {
+      "id": 332,
+      "mainline": [
+        14
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4480,
+      "initialPits": 24
+    },
+    {
+      "id": 333,
+      "mainline": [
+        80
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5611,
+      "initialPits": 17
+    },
+    {
+      "id": 334,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 5376,
+      "initialPits": 11
+    },
+    {
+      "id": 335,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 8024,
+      "initialPits": 19
+    },
+    {
+      "id": 336,
+      "mainline": [
+        29
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6008,
+      "initialPits": 22
+    },
+    {
+      "id": 337,
+      "mainline": [
+        15
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7072,
+      "initialPits": 18
+    },
+    {
+      "id": 338,
+      "mainline": [
+        9
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5200,
+      "initialPits": 7
+    },
+    {
+      "id": 339,
+      "mainline": [
+        8
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7072,
+      "initialPits": 6
+    },
+    {
+      "id": 340,
+      "mainline": [
+        35
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2496,
+      "initialPits": 10
+    },
+    {
+      "id": 341,
+      "mainline": [
+        37
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3776,
+      "initialPits": 12
+    },
+    {
+      "id": 342,
+      "mainline": [
+        146
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1220,
+      "initialPits": 22
+    },
+    {
+      "id": 343,
+      "mainline": [
+        27
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5200,
+      "initialPits": 6
+    },
+    {
+      "id": 344,
+      "mainline": [
+        28
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 9556,
+      "initialPits": 10
+    },
+    {
+      "id": 345,
+      "mainline": [
+        26
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4804,
+      "initialPits": 1
+    },
+    {
+      "id": 346,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2752,
+      "initialPits": 2
+    },
+    {
+      "id": 347,
+      "mainline": [
+        144
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2604,
+      "initialPits": 30
+    },
+    {
+      "id": 348,
+      "mainline": [
+        122
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3648,
+      "initialPits": 24
+    },
+    {
+      "id": 349,
+      "mainline": [
+        131
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 19
+    },
+    {
+      "id": 350,
+      "mainline": [
+        136
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 840,
+      "initialPits": 25
+    },
+    {
+      "id": 351,
+      "mainline": [
+        139
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 18
+    },
+    {
+      "id": 352,
+      "mainline": [
+        141
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2624,
+      "initialPits": 12
+    },
+    {
+      "id": 353,
+      "mainline": [
+        147
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4810,
+      "initialPits": 28
+    },
+    {
+      "id": 354,
+      "mainline": [
+        124
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 33
+    },
+    {
+      "id": 355,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 4796,
+      "initialPits": 22
+    },
+    {
+      "id": 356,
+      "mainline": [
+        126
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2480,
+      "initialPits": 18
+    },
+    {
+      "id": 357,
+      "mainline": [
+        127
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3140,
+      "initialPits": 22
+    },
+    {
+      "id": 358,
+      "mainline": [
+        137
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2296,
+      "initialPits": 31
+    },
+    {
+      "id": 359,
+      "mainline": [
+        133
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3640,
+      "initialPits": 24
+    },
+    {
+      "id": 360,
+      "mainline": [
+        128
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 25
+    },
+    {
+      "id": 361,
+      "mainline": [
+        149
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 25
+    },
+    {
+      "id": 362,
+      "mainline": [
+        132
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3644,
+      "initialPits": 21
+    },
+    {
+      "id": 363,
+      "mainline": [
+        130
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1848,
+      "initialPits": 21
+    },
+    {
+      "id": 364,
+      "mainline": [
+        134
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 28
+    },
+    {
+      "id": 365,
+      "mainline": [
+        123
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1400,
+      "initialPits": 13
+    },
+    {
+      "id": 366,
+      "mainline": [
+        145
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 24
+    },
+    {
+      "id": 367,
+      "mainline": [
+        125
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2940,
+      "initialPits": 25
+    },
+    {
+      "id": 368,
+      "mainline": [
+        150
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1288,
+      "initialPits": 20
+    },
+    {
+      "id": 369,
+      "mainline": [
+        121
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5000,
+      "initialPits": 13
+    },
+    {
+      "id": 370,
+      "mainline": [
+        143
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 19
+    },
+    {
+      "id": 371,
+      "mainline": [
+        538
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 25
+    },
+    {
+      "id": 372,
+      "mainline": [
+        540
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1416,
+      "initialPits": 33
+    },
+    {
+      "id": 373,
+      "mainline": [
+        515
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 24
+    },
+    {
+      "id": 374,
+      "mainline": [
+        519
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 31
+    },
+    {
+      "id": 375,
+      "mainline": [
+        547
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 32
+    },
+    {
+      "id": 376,
+      "mainline": [
+        508
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 32
+    },
+    {
+      "id": 377,
+      "mainline": [
+        513
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 18
+    },
+    {
+      "id": 378,
+      "mainline": [
+        505
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 32
+    },
+    {
+      "id": 379,
+      "mainline": [
+        506
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 5
+    },
+    {
+      "id": 380,
+      "mainline": [
+        514
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 24
+    },
+    {
+      "id": 381,
+      "mainline": [
+        516
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1400,
+      "initialPits": 25
+    },
+    {
+      "id": 382,
+      "mainline": [
+        521
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 32
+    },
+    {
+      "id": 383,
+      "mainline": [
+        517
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 33
+    },
+    {
+      "id": 384,
+      "mainline": [
+        509
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 33
+    },
+    {
+      "id": 385,
+      "mainline": [
+        543
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 28
+    },
+    {
+      "id": 386,
+      "mainline": [
+        511
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 23
+    },
+    {
+      "id": 387,
+      "mainline": [
+        522
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2436,
+      "initialPits": 19
+    },
+    {
+      "id": 388,
+      "mainline": [
+        518
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 876,
+      "initialPits": 30
+    },
+    {
+      "id": 389,
+      "mainline": [
+        523
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1024,
+      "initialPits": 20
+    },
+    {
+      "id": 390,
+      "mainline": [
+        524
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1148,
+      "initialPits": 35
+    },
+    {
+      "id": 391,
+      "mainline": [
+        503
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 27
+    },
+    {
+      "id": 392,
+      "mainline": [
+        548
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2104,
+      "initialPits": 20
+    },
+    {
+      "id": 393,
+      "mainline": [
+        527
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 434,
+      "initialPits": 13
+    },
+    {
+      "id": 394,
+      "mainline": [
+        544
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2248,
+      "initialPits": 34
+    },
+    {
+      "id": 395,
+      "mainline": [
+        512
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 22
+    },
+    {
+      "id": 396,
+      "mainline": [
+        528
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 35
+    },
+    {
+      "id": 397,
+      "mainline": [
+        525
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 28
+    },
+    {
+      "id": 398,
+      "mainline": [
+        526
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2352,
+      "initialPits": 29
+    },
+    {
+      "id": 399,
+      "mainline": [
+        533
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 24
+    },
+    {
+      "id": 400,
+      "mainline": [
+        529
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 33
+    },
+    {
+      "id": 401,
+      "mainline": [
+        534
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 27
+    },
+    {
+      "id": 402,
+      "mainline": [
+        536
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 28
+    },
+    {
+      "id": 403,
+      "mainline": [
+        504
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1148,
+      "initialPits": 32
+    },
+    {
+      "id": 404,
+      "mainline": [
+        520
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 37
+    },
+    {
+      "id": 405,
+      "mainline": [
+        549
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1400,
+      "initialPits": 34
+    },
+    {
+      "id": 406,
+      "mainline": [
+        531
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 18
+    },
+    {
+      "id": 407,
+      "mainline": [
+        545
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 23
+    },
+    {
+      "id": 408,
+      "mainline": [
+        550
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2752,
+      "initialPits": 18
+    },
+    {
+      "id": 409,
+      "mainline": [
+        532
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 25
+    },
+    {
+      "id": 410,
+      "mainline": [
+        546
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 32
+    },
+    {
+      "id": 411,
+      "mainline": [
+        530
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 38
+    },
+    {
+      "id": 412,
+      "mainline": [
+        535
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 25
+    },
+    {
+      "id": 413,
+      "mainline": [
+        537
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 35
+    },
+    {
+      "id": 414,
+      "mainline": [
+        501
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 12
+    },
+    {
+      "id": 415,
+      "mainline": [
+        502
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1984,
+      "initialPits": 18
+    },
+    {
+      "id": 416,
+      "mainline": [
+        507
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1204,
+      "initialPits": 14
+    },
+    {
+      "id": 417,
+      "mainline": [
+        510
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 34
+    },
+    {
+      "id": 418,
+      "mainline": [
+        539
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1072,
+      "initialPits": 31
+    },
+    {
+      "id": 419,
+      "mainline": [
+        541
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 26
+    },
+    {
+      "id": 420,
+      "mainline": [
+        542
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 30
+    },
+    {
+      "id": 421,
+      "mainline": [
+        30
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5488,
+      "initialPits": 14
+    },
+    {
+      "id": 422,
+      "mainline": [
+        51
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5000,
+      "initialPits": 8
+    },
+    {
+      "id": 423,
+      "mainline": [
+        85
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5000,
+      "initialPits": 12
+    },
+    {
+      "id": 424,
+      "mainline": [
+        100
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4510,
+      "initialPits": 12
+    },
+    {
+      "id": 425,
+      "mainline": [
+        52
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1024,
+      "initialPits": 14
+    },
+    {
+      "id": 426,
+      "mainline": [
+        53
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4624,
+      "initialPits": 22
+    },
+    {
+      "id": 427,
+      "mainline": [
+        56
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3904,
+      "initialPits": 14
+    },
+    {
+      "id": 428,
+      "mainline": [
+        65
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1372,
+      "initialPits": 18
+    },
+    {
+      "id": 429,
+      "mainline": [
+        57
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6656,
+      "initialPits": 21
+    },
+    {
+      "id": 430,
+      "mainline": [
+        55
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4624,
+      "initialPits": 29
+    },
+    {
+      "id": 431,
+      "mainline": [
+        63
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7304,
+      "initialPits": 20
+    },
+    {
+      "id": 432,
+      "mainline": [
+        62
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 24
+    },
+    {
+      "id": 433,
+      "mainline": [
+        61
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 21
+    },
+    {
+      "id": 434,
+      "mainline": [
+        60
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3200,
+      "initialPits": 27
+    },
+    {
+      "id": 435,
+      "mainline": [
+        67
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 700,
+      "initialPits": 13
+    },
+    {
+      "id": 436,
+      "mainline": [
+        58
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3200,
+      "initialPits": 23
+    },
+    {
+      "id": 437,
+      "mainline": [
+        50
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2500,
+      "initialPits": 5
+    },
+    {
+      "id": 438,
+      "mainline": [
+        215
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2624,
+      "initialPits": 30
+    },
+    {
+      "id": 439,
+      "mainline": [
+        235
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 700,
+      "initialPits": 24
+    },
+    {
+      "id": 440,
+      "mainline": [
+        204
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2940,
+      "initialPits": 31
+    },
+    {
+      "id": 441,
+      "mainline": [
+        219
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2296,
+      "initialPits": 13
+    },
+    {
+      "id": 442,
+      "mainline": [
+        248
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 16
+    },
+    {
+      "id": 443,
+      "mainline": [
+        205
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 22
+    },
+    {
+      "id": 444,
+      "mainline": [
+        203
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3192,
+      "initialPits": 21
+    },
+    {
+      "id": 445,
+      "mainline": [
+        213
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2296,
+      "initialPits": 27
+    },
+    {
+      "id": 446,
+      "mainline": [
+        250
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2548,
+      "initialPits": 18
+    },
+    {
+      "id": 447,
+      "mainline": [
+        222
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 22
+    },
+    {
+      "id": 448,
+      "mainline": [
+        221
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1484,
+      "initialPits": 19
+    },
+    {
+      "id": 449,
+      "mainline": [
+        238
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2800,
+      "initialPits": 24
+    },
+    {
+      "id": 450,
+      "mainline": [
+        202
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 17
+    },
+    {
+      "id": 451,
+      "mainline": [
+        236
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 33
+    },
+    {
+      "id": 452,
+      "mainline": [
+        247
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 23
+    },
+    {
+      "id": 453,
+      "mainline": [
+        243
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 28
+    },
+    {
+      "id": 454,
+      "mainline": [
+        211
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 24
+    },
+    {
+      "id": 455,
+      "mainline": [
+        229
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3192,
+      "initialPits": 26
+    },
+    {
+      "id": 456,
+      "mainline": [
+        206
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 832,
+      "initialPits": 18
+    },
+    {
+      "id": 457,
+      "mainline": [
+        244
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 7400,
+      "initialPits": 16
+    },
+    {
+      "id": 458,
+      "mainline": [
+        240
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 700,
+      "initialPits": 20
+    },
+    {
+      "id": 459,
+      "mainline": [
+        207
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 31
+    },
+    {
+      "id": 460,
+      "mainline": [
+        245
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 21
+    },
+    {
+      "id": 461,
+      "mainline": [
+        208
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 29
+    },
+    {
+      "id": 462,
+      "mainline": [
+        212
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2800,
+      "initialPits": 24
+    },
+    {
+      "id": 463,
+      "mainline": [
+        216
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 20
+    },
+    {
+      "id": 464,
+      "mainline": [
+        246
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 16
+    },
+    {
+      "id": 465,
+      "mainline": [
+        214
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2996,
+      "initialPits": 26
+    },
+    {
+      "id": 466,
+      "mainline": [
+        233
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 29
+    },
+    {
+      "id": 467,
+      "mainline": [
+        209
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2996,
+      "initialPits": 26
+    },
+    {
+      "id": 468,
+      "mainline": [
+        225
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 32
+    },
+    {
+      "id": 469,
+      "mainline": [
+        217
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 952,
+      "initialPits": 23
+    },
+    {
+      "id": 470,
+      "mainline": [
+        224
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2940,
+      "initialPits": 28
+    },
+    {
+      "id": 471,
+      "mainline": [
+        239
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3648,
+      "initialPits": 31
+    },
+    {
+      "id": 472,
+      "mainline": [
+        230
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 29
+    },
+    {
+      "id": 473,
+      "mainline": [
+        232
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1792,
+      "initialPits": 33
+    },
+    {
+      "id": 474,
+      "mainline": [
+        237
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2800,
+      "initialPits": 16
+    },
+    {
+      "id": 475,
+      "mainline": [
+        234
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 22
+    },
+    {
+      "id": 476,
+      "mainline": [
+        227
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 20
+    },
+    {
+      "id": 477,
+      "mainline": [
+        226
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2072,
+      "initialPits": 29
+    },
+    {
+      "id": 478,
+      "mainline": [
+        241
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 21
+    },
+    {
+      "id": 479,
+      "mainline": [
+        228
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 25
+    },
+    {
+      "id": 480,
+      "mainline": [
+        220
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1728,
+      "initialPits": 29
+    },
+    {
+      "id": 481,
+      "mainline": [
+        210
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 23
+    },
+    {
+      "id": 482,
+      "mainline": [
+        231
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 28
+    },
+    {
+      "id": 483,
+      "mainline": [
+        201
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3328,
+      "initialPits": 7
+    },
+    {
+      "id": 484,
+      "mainline": [
+        218
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4092,
+      "initialPits": 27
+    },
+    {
+      "id": 485,
+      "mainline": [
+        249
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 21
+    },
+    {
+      "id": 486,
+      "mainline": [
+        223
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 28
+    },
+    {
+      "id": 487,
+      "mainline": [
+        20
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4816,
+      "initialPits": 24
+    },
+    {
+      "id": 488,
+      "mainline": [
+        200
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1472,
+      "initialPits": 28
+    },
+    {
+      "id": 489,
+      "mainline": [
+        195
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 490,
+      "mainline": [
+        343
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 30
+    },
+    {
+      "id": 491,
+      "mainline": [
+        319
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 32
+    },
+    {
+      "id": 492,
+      "mainline": [
+        309
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 26
+    },
+    {
+      "id": 493,
+      "mainline": [
+        327
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3000,
+      "initialPits": 29
+    },
+    {
+      "id": 494,
+      "mainline": [
+        333
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2688,
+      "initialPits": 24
+    },
+    {
+      "id": 495,
+      "mainline": [
+        335
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1848,
+      "initialPits": 33
+    },
+    {
+      "id": 496,
+      "mainline": [
+        321
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3896,
+      "initialPits": 26
+    },
+    {
+      "id": 497,
+      "mainline": [
+        330
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 30
+    },
+    {
+      "id": 498,
+      "mainline": [
+        316
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1680,
+      "initialPits": 26
+    },
+    {
+      "id": 499,
+      "mainline": [
+        322
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2380,
+      "initialPits": 24
+    },
+    {
+      "id": 500,
+      "mainline": [
+        317
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1596,
+      "initialPits": 20
+    },
+    {
+      "id": 501,
+      "mainline": [
+        311
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1484,
+      "initialPits": 36
+    },
+    {
+      "id": 502,
+      "mainline": [
+        306
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2436,
+      "initialPits": 28
+    },
+    {
+      "id": 503,
+      "mainline": [
+        325
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 23
+    },
+    {
+      "id": 504,
+      "mainline": [
+        347
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2632,
+      "initialPits": 29
+    },
+    {
+      "id": 505,
+      "mainline": [
+        313
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 506,
+      "mainline": [
+        318
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3648,
+      "initialPits": 23
+    },
+    {
+      "id": 507,
+      "mainline": [
+        324
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 30
+    },
+    {
+      "id": 508,
+      "mainline": [
+        337
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1920,
+      "initialPits": 24
+    },
+    {
+      "id": 509,
+      "mainline": [
+        312
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2996,
+      "initialPits": 26
+    },
+    {
+      "id": 510,
+      "mainline": [
+        348
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1888,
+      "initialPits": 22
+    },
+    {
+      "id": 511,
+      "mainline": [
+        350
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1924,
+      "initialPits": 33
+    },
+    {
+      "id": 512,
+      "mainline": [
+        314
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1484,
+      "initialPits": 22
+    },
+    {
+      "id": 513,
+      "mainline": [
+        342
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1680,
+      "initialPits": 35
+    },
+    {
+      "id": 514,
+      "mainline": [
+        336
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2240,
+      "initialPits": 39
+    },
+    {
+      "id": 515,
+      "mainline": [
+        340
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1092,
+      "initialPits": 30
+    },
+    {
+      "id": 516,
+      "mainline": [
+        302
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 24
+    },
+    {
+      "id": 517,
+      "mainline": [
+        328
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1600,
+      "initialPits": 28
+    },
+    {
+      "id": 518,
+      "mainline": [
+        332
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1652,
+      "initialPits": 35
+    },
+    {
+      "id": 519,
+      "mainline": [
+        339
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3200,
+      "initialPits": 29
+    },
+    {
+      "id": 520,
+      "mainline": [
+        310
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 30
+    },
+    {
+      "id": 521,
+      "mainline": [
+        349
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 28
+    },
+    {
+      "id": 522,
+      "mainline": [
+        345
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2496,
+      "initialPits": 32
+    },
+    {
+      "id": 523,
+      "mainline": [
+        305
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 524,
+      "mainline": [
+        341
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1472,
+      "initialPits": 33
+    },
+    {
+      "id": 525,
+      "mainline": [
+        346
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3072,
+      "initialPits": 25
+    },
+    {
+      "id": 526,
+      "mainline": [
+        331
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3200,
+      "initialPits": 29
+    },
+    {
+      "id": 527,
+      "mainline": [
+        303
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1484,
+      "initialPits": 25
+    },
+    {
+      "id": 528,
+      "mainline": [
+        344
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2380,
+      "initialPits": 24
+    },
+    {
+      "id": 529,
+      "mainline": [
+        323
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 29
+    },
+    {
+      "id": 530,
+      "mainline": [
+        329
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 3
+    },
+    {
+      "id": 531,
+      "mainline": [
+        304
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1848,
+      "initialPits": 31
+    },
+    {
+      "id": 532,
+      "mainline": [
+        320
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1148,
+      "initialPits": 27
+    },
+    {
+      "id": 533,
+      "mainline": [
+        338
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 21
+    },
+    {
+      "id": 534,
+      "mainline": [
+        307
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 27
+    },
+    {
+      "id": 535,
+      "mainline": [
+        301
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1400,
+      "initialPits": 14
+    },
+    {
+      "id": 536,
+      "mainline": [
+        308
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 896,
+      "initialPits": 32
+    },
+    {
+      "id": 537,
+      "mainline": [
+        315
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2996,
+      "initialPits": 37
+    },
+    {
+      "id": 538,
+      "mainline": [
+        326
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1988,
+      "initialPits": 29
+    },
+    {
+      "id": 539,
+      "mainline": [
+        334
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 26
+    },
+    {
+      "id": 540,
+      "mainline": [
+        135
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1736,
+      "initialPits": 28
+    },
+    {
+      "id": 541,
+      "mainline": [
+        189
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3900,
+      "initialPits": 27
+    },
+    {
+      "id": 542,
+      "mainline": [
+        190
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3072,
+      "initialPits": 21
+    },
+    {
+      "id": 543,
+      "mainline": [
+        193
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 392,
+      "initialPits": 23
+    },
+    {
+      "id": 544,
+      "mainline": [
+        184
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 22
+    },
+    {
+      "id": 545,
+      "mainline": [
+        180
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2048,
+      "initialPits": 21
+    },
+    {
+      "id": 546,
+      "mainline": [
+        457
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 1344,
+      "initialPits": 31
+    },
+    {
+      "id": 547,
+      "mainline": [
+        364
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2044,
+      "initialPits": 29
+    },
+    {
+      "id": 548,
+      "mainline": [
+        87
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2100,
+      "initialPits": 17
+    },
+    {
+      "id": 549,
+      "mainline": [
+        98
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2902,
+      "initialPits": 21
+    },
+    {
+      "id": 550,
+      "mainline": [
+        103
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3456,
+      "initialPits": 20
+    },
+    {
+      "id": 551,
+      "mainline": [
+        109
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3248,
+      "initialPits": 19
+    },
+    {
+      "id": 552,
+      "mainline": [
+        110
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2344,
+      "initialPits": 19
+    },
+    {
+      "id": 553,
+      "mainline": [
+        120
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2710,
+      "initialPits": 20
+    },
+    {
+      "id": 554,
+      "mainline": [
+        108
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2876,
+      "initialPits": 30
+    },
+    {
+      "id": 555,
+      "mainline": [
+        115
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2480,
+      "initialPits": 20
+    },
+    {
+      "id": 556,
+      "mainline": [
+        258
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3648,
+      "initialPits": 27
+    },
+    {
+      "id": 557,
+      "mainline": [
+        292
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2492,
+      "initialPits": 31
+    },
+    {
+      "id": 558,
+      "mainline": [
+        140
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 448,
+      "initialPits": 24
+    },
+    {
+      "id": 559,
+      "mainline": [
+        148
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2692,
+      "initialPits": 18
+    },
+    {
+      "id": 560,
+      "mainline": [
+        129
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3756,
+      "initialPits": 22
+    },
+    {
+      "id": 561,
+      "mainline": [
+        138
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 2156,
+      "initialPits": 17
+    },
+    {
+      "id": 562,
+      "mainline": [
+        142
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 644,
+      "initialPits": 20
+    },
+    {
+      "id": 563,
+      "mainline": [
+        47
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 3500,
+      "initialPits": 17
+    },
+    {
+      "id": 564,
+      "mainline": [
+        69
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 4096,
+      "initialPits": 21
+    },
+    {
+      "id": 565,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 1600,
+      "initialPits": 1
+    },
+    {
+      "id": 566,
+      "mainline": [
+        39
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 6800,
+      "initialPits": 18
+    },
+    {
+      "id": 567,
+      "mainline": [
+        46
+      ],
+      "errors": [],
+      "warnings": [],
+      "grains": 5248,
+      "initialPits": 18
+    },
+    {
+      "id": 568,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问",
+        "颜色 0 总沙量 1408 小于容量 3280（包括管道与隐藏层）"
+      ],
+      "grains": 3280,
+      "initialPits": 3
+    },
+    {
+      "id": 569,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 5000,
+      "initialPits": 3
+    },
+    {
+      "id": 570,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 10024,
+      "initialPits": 7
+    },
+    {
+      "id": 571,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 4300,
+      "initialPits": 13
+    },
+    {
+      "id": 572,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 9700,
+      "initialPits": 78
+    },
+    {
+      "id": 573,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 7360,
+      "initialPits": 3
+    },
+    {
+      "id": 574,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2752,
+      "initialPits": 5
+    },
+    {
+      "id": 575,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2176,
+      "initialPits": 3
+    },
+    {
+      "id": 576,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 6959,
+      "initialPits": 13
+    },
+    {
+      "id": 577,
+      "mainline": [],
+      "errors": [],
+      "warnings": [
+        "不在 Unity 主线顺序中；按原始 ID 可访问"
+      ],
+      "grains": 2424,
+      "initialPits": 9
+    }
+  ]
+}

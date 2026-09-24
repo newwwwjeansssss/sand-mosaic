@@ -1,0 +1,399 @@
+[
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_7_ObstacleBarrier",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_22",
+          "SandContainer_21",
+          "Barrier_0_2"
+        ],
+        "HandFocusObjects": "SandBox_22",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 4.0,
+            "y": 2.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Fill the boxes to shrink the barrier!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_1_Onboard 1",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_8",
+          "SandContainer_61"
+        ],
+        "HandFocusObjects": "SandBox_8",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 2.0,
+            "y": 0.949999988079071,
+            "z": 0.0
+          }
+        ],
+        "Description": "Move the Box \\n to the Container",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_3_ObstacleDirectionalBox",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_142",
+          "SandContainer_28"
+        ],
+        "HandFocusObjects": "SandBox_142",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": -3.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Slide the box only in the arrow's direction!",
+        "Type": 0,
+        "CompleteOnInteract": 1,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_2_1_Booster0",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [],
+        "HandFocusObjects": "",
+        "HighlightUI": "BtnBooster_0",
+        "HandDragPos": [],
+        "Description": "Pause the time for 10 seconds!",
+        "Type": 1,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 1
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_2_3_Booster2",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [],
+        "HandFocusObjects": "",
+        "HighlightUI": "BtnBooster_2",
+        "HandDragPos": [],
+        "Description": "Instantly fill a box!",
+        "Type": 1,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 1
+      },
+      {
+        "HighlightObjects": [
+          "SandBox_13",
+          "SandContainer_11"
+        ],
+        "HandFocusObjects": "SandBox_13",
+        "HighlightUI": "",
+        "HandDragPos": [],
+        "Description": "",
+        "Type": 1,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_5_ObstaclePipe",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_653",
+          "SandPipe_1",
+          "SandContainer_115"
+        ],
+        "HandFocusObjects": "SandBox_653",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 0.0,
+            "y": 2.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "More sand comes from the pipe!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_8_ObstacleColorPath",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_466",
+          "ColorPathCell_4_3",
+          "ColorPathCell_5_3"
+        ],
+        "HandFocusObjects": "SandBox_466",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 5.0,
+            "y": 3.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Only same-colored blocks can pass this path!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_4_ObstacleKeynLock",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_238",
+          "SandContainer_49"
+        ],
+        "HandFocusObjects": "SandBox_238",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": -2.0,
+            "y": 2.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Gather matching keys to open locks!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_6_ObstacleCover",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_8",
+          "SandContainer_1",
+          "SandContainer_3"
+        ],
+        "HandFocusObjects": "SandBox_8",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 5.0,
+            "y": 2.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Break the cover to start collecting sand!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_2_2_Booster1",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [],
+        "HandFocusObjects": "",
+        "HighlightUI": "BtnBooster_1",
+        "HandDragPos": [],
+        "Description": "Break the box into smaller ones!",
+        "Type": 1,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 1
+      },
+      {
+        "HighlightObjects": [
+          "SandBox_154"
+        ],
+        "HandFocusObjects": "SandBox_154",
+        "HighlightUI": "",
+        "HandDragPos": [],
+        "Description": "",
+        "Type": 1,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_1_ObstacleIce",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_155"
+        ],
+        "HandFocusObjects": "SandBox_155",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Fill boxes to break the ice!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 1
+      }
+    ]
+  },
+  {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3618719562858369423
+    },
+    "m_Name": "Tutorial_3_2_ObstacleDoubleBox",
+    "_tutorialSteps": [
+      {
+        "HighlightObjects": [
+          "SandBox_109",
+          "SandContainer_24"
+        ],
+        "HandFocusObjects": "SandBox_109",
+        "HighlightUI": "",
+        "HandDragPos": [
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        ],
+        "Description": "Fill the inside box first to unlock the lower one!",
+        "Type": 0,
+        "CompleteOnInteract": 0,
+        "DecriptionPos": 0
+      }
+    ]
+  }
+]

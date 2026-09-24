@@ -1,0 +1,20 @@
+{
+  "catalogPassed": true,
+  "levelsInitialized": 497,
+  "initialGrainsDecoded": 7793916,
+  "playthroughVerified": false,
+  "scope": "真实 SandCatalog.Validate + 497 次 SandBoard 初始化；不是 Unity/Player 或逐关通关测试",
+  "coreSourceSha256": {
+    "SandBoardBoosters.cs": "c161837875fe28e0a7d6ffb0c8210f8afc2a8840e0603d78bdbc1a8714df7738",
+    "SandGrid.cs": "191e5f9bb92b969e3159c888d87ef84c279e7078eb465aa7014a7f3e9e3a6644",
+    "SandBoard.cs": "63aa805ff0fae5556a4847fbae3339532c13077180179050594e058d3f045a4a",
+    "SandBoardPresentation.cs": "beefe5e2cc67b1110cfcc1ab07985e16e544df66fb407df9605170520d6142a4",
+    "SandGrid.Simulation.cs": "21a5a15d3d739b26b8954d96ef6f0a369a258dc10e3593d3ef58c97c94d0fedf",
+    "SandBoardFeatures.cs": "8d52eda517204596a903f82c96cd39d20c2a1af6f96b48f926133d0bbc0cef6c",
+    "SandBoard.Movement.cs": "6d9d972619734ce45aab9e4f1d98cb2fbc14f4d4a33d355b97b689cd475881b7",
+    "SandGrainAppearance.cs": "efbbb95be4574d4b4862dd595f03316f982ad2e6220c3929851ee321dbac1b56",
+    "SandDrainMotion.cs": "fadb402702ee2b55af2315ae9c8fa54094f8e9861eaa5bc2020b6067db893d67",
+    "SandGrid.Backend.cs": "0da488e60909c5dac2b8a14637fbafd14932ef101637ae0685ea6c30b9120033",
+    "SandData.cs": "cd067b2497e0cefda8d3a1a30281d2848160f9f2e70ebb2a3d2931c5f19017b4"
+  }
+}
